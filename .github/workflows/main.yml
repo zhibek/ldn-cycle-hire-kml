@@ -1,0 +1,39 @@
+name: main
+
+on:
+  push:
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  poll_transform:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.8
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    - name: Poll & Transform
+      run: |
+        cd src && python3 main.py && cd ..
+    - name: Set variable to check if anything changed
+      id: is_updated
+      run: |-
+        echo "##[set-output name=changed;]$(git diff --quiet HEAD data/*.kml; echo $?)"
+    - name: Commit files
+      if: steps.is_updated.outputs.changed != 0
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data
+        git commit -m "Update for $(date +'%Y-%m-%d')"
+    - name: Push changes
+      if: steps.is_updated.outputs.changed != 0
+      uses: ad-m/github-push-action@v0.6.0
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
