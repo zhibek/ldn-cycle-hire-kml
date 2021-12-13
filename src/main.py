@@ -1,6 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 from xml.dom import minidom
+from datetime import datetime
+import csv
 
 SOURCE_URL = "https://tfl.gov.uk/tfl/syndication/feeds/cycle-hire/livecyclehireupdates.xml"
 SOURCE_PATH = "station"
@@ -32,6 +34,7 @@ TARGETS = [
         "fields": SOURCE_FIELDS,
     },
 ]
+TARGET_HISTORY_PATH = "../data/london_cycle_hire_stations_history.csv"
 
 
 def process_source():
@@ -172,10 +175,38 @@ def save_kml(kml, path):
     file.close()
 
 
+def generate_history_csv(items, path):
+    print("Generate history CSV")
+
+    data = {}
+    data["date"] = datetime.now().isoformat(timespec='minutes')
+
+    for item in items:
+        id = item["id"]
+        value = "{};{};{}".format(item["nbBikes"], item["nbEmptyDocks"], item["nbDocks"])
+        data[id] = value
+
+    write_csv(data, path)
+
+
+def write_csv(data, path):
+    with open(path, mode="r+") as file:
+        existing = file.read()
+        writer = csv.writer(file)
+
+        if not existing:
+            headers = list(data.keys())
+            writer.writerow(headers)
+
+        values = data.values()
+        writer.writerow(values)
+
+
 def main():
     print("Starting process...")
     items = process_source()
     generate_kmls(items, TARGETS)
+    generate_history_csv(items, TARGET_HISTORY_PATH)
     print("Process ended!")
 
 
