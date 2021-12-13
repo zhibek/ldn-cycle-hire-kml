@@ -26,11 +26,13 @@ TARGET_PATH = "../data/stations.kml"
 
 
 def process_source():
+    print("Requesting URL: {}".format(SOURCE_URL))
     result = requests.get(SOURCE_URL)
     xml = result.content
 
     soup = BeautifulSoup(xml, features="lxml")
     results = soup.select(SOURCE_PATH)
+    print("Found {} results".format(len(results)))
 
     items = []
     for data in results:
@@ -68,11 +70,14 @@ def init_kml(title=""):
 
 
 def populate_items_kml(kml, document, items):
+    count = 0
     for item in items:
         placemark = create_placemark(kml, item)
         if placemark:
             document.appendChild(placemark)
+            count += 1
 
+    print("Populated {} items".format(count))
     return kml
 
 
@@ -133,10 +138,12 @@ def save_kml(kml):
 
 
 def main():
+    print("Starting process...")
     items = process_source()
     kml, document = init_kml(TARGET_NAME)
     populate_items_kml(kml, document, items)
     save_kml(kml)
+    print("Process ended!")
 
 
 main()
