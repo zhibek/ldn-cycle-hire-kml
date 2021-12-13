@@ -31,7 +31,7 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add data
-        git commit -m "Update for $(date +'%Y-%m-%d')"
+        git commit -m "Update at $(date +'%Y-%m-%d %H:%M')"
     - name: Push changes
       if: steps.is_updated.outputs.changed != 0
       uses: ad-m/github-push-action@master

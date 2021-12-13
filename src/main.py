@@ -4,8 +4,7 @@ from xml.dom import minidom
 
 SOURCE_URL = "https://tfl.gov.uk/tfl/syndication/feeds/cycle-hire/livecyclehireupdates.xml"
 SOURCE_PATH = "station"
-
-FIELDS = [
+SOURCE_FIELDS = [
     "id",
     "name",
     "terminalName",
@@ -21,8 +20,18 @@ FIELDS = [
     "nbDocks",
 ]
 
-TARGET_NAME = "London Cycle Hire Stations"
-TARGET_PATH = "../data/stations.kml"
+TARGETS = [
+    {
+        "name": "London Cycle Hire Stations",
+        "path": "../data/london_cycle_hire_stations.kml",
+        "fields": ["id", "installed", "locked", "temporary"],
+    },
+    {
+        "name": "London Cycle Hire Stations (Full)",
+        "path": "../data/london_cycle_hire_stations_full.kml",
+        "fields": SOURCE_FIELDS,
+    },
+]
 
 
 def process_source():
@@ -37,11 +46,23 @@ def process_source():
     items = []
     for data in results:
         item = {}
-        for field in FIELDS:
+        for field in SOURCE_FIELDS:
             item[field] = data.select(field)[0].string
         items.append(item)
 
     return items
+
+
+def generate_kmls(items, targets):
+    for target in targets:
+        generate_kml(items, target["name"], target["path"], target["fields"])
+
+
+def generate_kml(items, name, path, fields):
+    print("Generate KML: {}".format(name))
+    kml, document = init_kml(name)
+    populate_items_kml(kml, document, items, fields)
+    save_kml(kml, path)
 
 
 def init_kml(title=""):
@@ -69,10 +90,10 @@ def init_kml(title=""):
     return kml, document
 
 
-def populate_items_kml(kml, document, items):
+def populate_items_kml(kml, document, items, fields):
     count = 0
     for item in items:
-        placemark = create_placemark(kml, item)
+        placemark = create_placemark(kml, item, fields)
         if placemark:
             document.appendChild(placemark)
             count += 1
@@ -81,13 +102,14 @@ def populate_items_kml(kml, document, items):
     return kml
 
 
-def create_placemark(kml, item):
+def create_placemark(kml, item, fields):
     if "lat" not in item or "long" not in item:
         return
 
     placemark = init_placemark(kml)
     set_placemark_point(kml, placemark, item["lat"], item["long"])
-    add_placemark_extended_data(kml, placemark, item)
+    set_placemark_name(kml, placemark, item["name"])
+    add_placemark_extended_data(kml, placemark, item, fields)
     return placemark
 
 
@@ -105,22 +127,35 @@ def set_placemark_point(kml, placemark, lat, long):
     point = kml.createElement(POINT_TAG)
     placemark.appendChild(point)
     coordinates = kml.createElement(COORDINATES_TAG)
-    latlong = "{},{}".format(long, lat)
-    coordinates.appendChild(kml.createTextNode(latlong))
+    value = "{},{}".format(long, lat)
+    text = kml.createTextNode(value)
+    coordinates.appendChild(text)
     point.appendChild(coordinates)
 
 
-def add_placemark_extended_data(kml, placemark, item):
+def set_placemark_name(kml, placemark, name):
+    NAME_TAG = "name"
+
+    data = kml.createElement(NAME_TAG)
+    text = kml.createTextNode(name)
+    data.appendChild(text)
+    placemark.appendChild(data)
+
+
+def add_placemark_extended_data(kml, placemark, item, fields):
     EXTENDED_DATA_TAG = "ExtendedData"
     DATA_TAG = "Data"
     NAME_ATTR = "name"
     VALUE_TAG = "value"
 
+    if not fields:
+        return
+
     extended = kml.createElement(EXTENDED_DATA_TAG)
     placemark.appendChild(extended)
 
-    for field in FIELDS:
-        if item[field]:
+    for field in fields:
+        if item[field] and field != "name":
             data = kml.createElement(DATA_TAG)
             data.setAttribute(NAME_ATTR, field)
             value = kml.createElement(VALUE_TAG)
@@ -130,8 +165,8 @@ def add_placemark_extended_data(kml, placemark, item):
             extended.appendChild(data)
 
 
-def save_kml(kml):
-    file = open(TARGET_PATH, "w")
+def save_kml(kml, path):
+    file = open(path, "w")
     content = kml.toprettyxml()
     file.write(content)
     file.close()
@@ -140,9 +175,7 @@ def save_kml(kml):
 def main():
     print("Starting process...")
     items = process_source()
-    kml, document = init_kml(TARGET_NAME)
-    populate_items_kml(kml, document, items)
-    save_kml(kml)
+    generate_kmls(items, TARGETS)
     print("Process ended!")
 
 
