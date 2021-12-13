@@ -34,6 +34,6 @@ jobs:
         git commit -m "Update for $(date +'%Y-%m-%d')"
     - name: Push changes
       if: steps.is_updated.outputs.changed != 0
-      uses: ad-m/github-push-action@v0.6.0
+      uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
