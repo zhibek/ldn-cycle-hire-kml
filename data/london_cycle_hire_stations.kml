@@ -1644,26 +1644,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.132053392,51.51858757</coordinates>
-			</Point>
-			<name>Bayley Street , Bloomsbury</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>88</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.123509611,51.5262503</coordinates>
 			</Point>
 			<name>Tavistock Place, Bloomsbury</name>
