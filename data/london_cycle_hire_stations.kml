@@ -9684,6 +9684,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.21350087,51.496927</coordinates>
+			</Point>
+			<name>Blythe Road, Olympia</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>525</value>
+				</Data>
+				<Data name="installed">
+					<value>false</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.008428,51.503143</coordinates>
 			</Point>
 			<name>Lancaster Drive, Blackwall</name>
