@@ -8924,6 +8924,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.048017,51.531127</coordinates>
+			</Point>
+			<name>Old Ford Road, Bethnal Green</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>485</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.069543,51.525645</coordinates>
 			</Point>
 			<name>Granby Street, Shoreditch</name>
