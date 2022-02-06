@@ -14944,6 +14944,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.122299440803,51.5301998755</coordinates>
+			</Point>
+			<name>Birkenhead Street, King's Cross</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>798</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.137598896295,51.4976984561</coordinates>
 			</Point>
 			<name>Kings Gate House, Westminster</name>
