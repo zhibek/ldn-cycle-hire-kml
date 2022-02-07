@@ -14204,26 +14204,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.163795009,51.52526975</coordinates>
-			</Point>
-			<name>Rossmore Road, Marylebone</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>760</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.211860644,51.48321729</coordinates>
 			</Point>
 			<name>Humbolt Road, Fulham</name>
