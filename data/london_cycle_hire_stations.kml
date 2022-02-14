@@ -8024,26 +8024,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.114605,51.495656</coordinates>
-			</Point>
-			<name>Sail Street, Vauxhall</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>441</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.211358,51.510101</coordinates>
 			</Point>
 			<name>Walmer Road, Avondale</name>
