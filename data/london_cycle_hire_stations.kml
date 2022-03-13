@@ -9184,6 +9184,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.015578,51.52512</coordinates>
+			</Point>
+			<name>Devons Road, Bow</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>496</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.027581,51.526578</coordinates>
 			</Point>
 			<name>Merchant Street, Bow</name>
