@@ -404,6 +404,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.062806212,51.539834</coordinates>
+			</Point>
+			<name>Lansdown Drive, Hackney Central</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>21</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.114079481,51.5222641</coordinates>
 			</Point>
 			<name>Northington Street , Holborn</name>
