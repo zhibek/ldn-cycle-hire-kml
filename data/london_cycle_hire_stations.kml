@@ -14104,6 +14104,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.17371276,51.515117</coordinates>
+			</Point>
+			<name>London Street, Paddington</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>752</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.214762686,51.5129006</coordinates>
 			</Point>
 			<name>Grenfell Road, Avondale</name>
