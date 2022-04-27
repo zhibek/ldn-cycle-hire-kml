@@ -7484,6 +7484,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.159919,51.492462</coordinates>
+			</Point>
+			<name>Cadogan Gardens, Chelsea</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>395</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.163609,51.51809</coordinates>
 			</Point>
 			<name>Shouldham Street, Marylebone</name>
