@@ -8904,6 +8904,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.058005,51.527152</coordinates>
+			</Point>
+			<name>Pott Street, Bethnal Green</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>479</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.0389866,51.5128711</coordinates>
 			</Point>
 			<name>Flamborough Street, Limehouse</name>
