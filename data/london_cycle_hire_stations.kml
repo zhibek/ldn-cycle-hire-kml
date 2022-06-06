@@ -1024,26 +1024,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.143495266,51.5099923</coordinates>
-			</Point>
-			<name>Grafton Street, Mayfair</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>53</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.094475072,51.52174785</coordinates>
 			</Point>
 			<name>Golden Lane, Barbican</name>
@@ -6270,26 +6250,6 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>331</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.194757949,51.49334336</coordinates>
-			</Point>
-			<name>Nevern Place, Earl's Court</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>332</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
