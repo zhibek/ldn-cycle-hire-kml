@@ -7884,6 +7884,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.09294031,51.51397065</coordinates>
+			</Point>
+			<name>Cheapside, Bank</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>427</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.174554,51.499917</coordinates>
 			</Point>
 			<name>Exhibition Road, Knightsbridge</name>
