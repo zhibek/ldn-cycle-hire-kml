@@ -6284,6 +6284,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.194757949,51.49334336</coordinates>
+			</Point>
+			<name>Nevern Place, Earl's Court</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>332</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.193764092,51.50860544</coordinates>
 			</Point>
 			<name>Palace Gardens Terrace, Notting Hill</name>
