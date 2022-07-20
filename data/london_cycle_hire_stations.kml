@@ -1224,6 +1224,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.13518856,51.52522753</coordinates>
+			</Point>
+			<name>Gower Place , Euston</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>65</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.108657431,51.51795029</coordinates>
 			</Point>
 			<name>Holborn Circus, Holborn</name>
