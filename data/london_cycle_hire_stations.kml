@@ -14964,6 +14964,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.12827903,51.5293</coordinates>
+			</Point>
+			<name>Ossulston Street, Somers Town</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>797</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.122299440803,51.5301998755</coordinates>
 			</Point>
 			<name>Birkenhead Street, King's Cross</name>
