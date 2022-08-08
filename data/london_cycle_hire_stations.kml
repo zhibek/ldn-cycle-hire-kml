@@ -5264,26 +5264,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.084985356,51.50930161</coordinates>
-			</Point>
-			<name>Lower Thames Street, Monument</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>276</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.191496313,51.50315739</coordinates>
 			</Point>
 			<name>Kensington Church Street, Kensington</name>
