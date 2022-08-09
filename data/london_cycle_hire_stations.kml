@@ -15782,25 +15782,5 @@
 				</Data>
 			</ExtendedData>
 		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.0942844,51.48224</coordinates>
-			</Point>
-			<name>Burgess Park Albany Road, Walworth</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>846</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>true</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
 	</Document>
 </kml>
