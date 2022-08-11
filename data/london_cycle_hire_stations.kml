@@ -84,6 +84,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.156876,51.49313</coordinates>
+			</Point>
+			<name>Sedding Street, Sloane Square</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>5</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.144228881,51.51811784</coordinates>
 			</Point>
 			<name>Broadcasting House, Marylebone</name>
