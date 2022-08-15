@@ -9104,26 +9104,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.065006,51.508622</coordinates>
-			</Point>
-			<name>Pennington Street, Wapping</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>490</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.041378,51.522507</coordinates>
 			</Point>
 			<name>Queen Mary's, Mile End</name>
