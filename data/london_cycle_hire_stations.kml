@@ -5564,6 +5564,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.135635511,51.488226</coordinates>
+			</Point>
+			<name>St. George's Square, Pimlico</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>294</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.092762704,51.50029631</coordinates>
 			</Point>
 			<name>Swan Street, The Borough</name>
