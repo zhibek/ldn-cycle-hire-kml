@@ -4204,26 +4204,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.166485083,51.49066456</coordinates>
-			</Point>
-			<name>Chelsea Green, Chelsea</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>220</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.13045856,51.49481649</coordinates>
 			</Point>
 			<name>Horseferry Road, Westminster</name>
