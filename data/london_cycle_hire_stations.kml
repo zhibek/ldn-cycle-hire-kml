@@ -2915,7 +2915,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>false</value>
+					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -4295,7 +4295,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>false</value>
+					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -11924,26 +11924,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.204764421,51.5190427</coordinates>
-			</Point>
-			<name>All Saints' Road, Portobello</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>643</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.223852256,51.48373225</coordinates>
 			</Point>
 			<name>Rainville Road, Hammersmith</name>
@@ -12270,26 +12250,6 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>660</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.202608612,51.51632095</coordinates>
-			</Point>
-			<name>All Saints Church, Portobello</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>661</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
