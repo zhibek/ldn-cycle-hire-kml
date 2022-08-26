@@ -564,26 +564,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.193487,51.513735</coordinates>
-			</Point>
-			<name>Hereford Road, Bayswater</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>29</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.093421615,51.52915444</coordinates>
 			</Point>
 			<name>Windsor Terrace, Hoxton</name>
@@ -2904,26 +2884,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.201554966,51.51213691</coordinates>
-			</Point>
-			<name>Chepstow Villas, Notting Hill</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>151</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.101536865,51.49217002</coordinates>
 			</Point>
 			<name>Hampton Street, Walworth</name>
@@ -4276,26 +4236,6 @@
 				</Data>
 				<Data name="locked">
 					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.196422,51.50935342</coordinates>
-			</Point>
-			<name>Notting Hill Gate Station, Notting Hill</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>225</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -6384,26 +6324,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.197524944,51.51108452</coordinates>
-			</Point>
-			<name>Pembridge Villas, Notting Hill</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>337</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.119643424,51.51175646</coordinates>
 			</Point>
 			<name>Wellington Street , Strand</name>
@@ -7096,26 +7016,6 @@
 				</Data>
 				<Data name="locked">
 					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.200838199,51.51431171</coordinates>
-			</Point>
-			<name>Turquoise Island, Notting Hill</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>379</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -13724,26 +13624,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.208565479,51.51510818</coordinates>
-			</Point>
-			<name>Blenheim Crescent, Ladbroke Grove</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>742</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.212607684,51.46079243</coordinates>
 			</Point>
 			<name>Oxford Road, Putney</name>
@@ -14016,26 +13896,6 @@
 				</Data>
 				<Data name="locked">
 					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.201005397,51.51787005</coordinates>
-			</Point>
-			<name>Westbourne Park Road, Portobello</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>758</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -15150,26 +15010,6 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>817</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.12382322,51.501513</coordinates>
-			</Point>
-			<name>Westminster Pier, Westminster</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>818</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
