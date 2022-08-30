@@ -9944,6 +9944,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.204666,51.509591</coordinates>
+			</Point>
+			<name>Lansdowne Walk, Ladbroke Grove</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>543</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.102208,51.526153</coordinates>
 			</Point>
 			<name>Percival Street, Finsbury</name>
@@ -10230,6 +10250,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>559</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.205921,51.511624</coordinates>
+			</Point>
+			<name>Ladbroke Grove Central, Ladbroke Grove</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>560</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -11890,6 +11930,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>649</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.213872396,51.51687069</coordinates>
+			</Point>
+			<name>St. Mark's Road, North Kensington</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>650</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
