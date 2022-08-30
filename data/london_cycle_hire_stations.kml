@@ -644,6 +644,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.07015,51.515231</coordinates>
+			</Point>
+			<name>Central House, Aldgate</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>33</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.129386874,51.5341235</coordinates>
 			</Point>
 			<name>Pancras Road, King's Cross</name>
