@@ -12104,6 +12104,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.202608612,51.51632095</coordinates>
+			</Point>
+			<name>All Saints Church, Portobello</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>661</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.167919869,51.48498496</coordinates>
 			</Point>
 			<name>Phene Street, Chelsea</name>
