@@ -6584,6 +6584,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.142783033,51.51196</coordinates>
+			</Point>
+			<name>St. George Street, Mayfair</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>349</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.1798541843891,51.5017154373867</coordinates>
 			</Point>
 			<name>Queen's Gate, Kensington Gardens</name>
