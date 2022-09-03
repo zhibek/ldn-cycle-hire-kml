@@ -2724,26 +2724,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.161203828,51.4968865</coordinates>
-			</Point>
-			<name>Pont Street, Knightsbridge</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>143</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.111435796,51.48894022</coordinates>
 			</Point>
 			<name>Kennington Cross, Kennington</name>
