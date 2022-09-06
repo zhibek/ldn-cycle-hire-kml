@@ -6924,6 +6924,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.1511263847351,51.5109192966489</coordinates>
+			</Point>
+			<name>Millennium Hotel, Mayfair</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>366</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.1642075,51.5173721</coordinates>
 			</Point>
 			<name>Harrowby Street, Marylebone</name>
