@@ -15324,6 +15324,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.12382322,51.501513</coordinates>
+			</Point>
+			<name>Westminster Pier, Westminster</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>818</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.114842,51.50621</coordinates>
 			</Point>
 			<name>Belvedere Road 2, South Bank</name>
