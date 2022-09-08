@@ -11224,26 +11224,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.138535,51.538792</coordinates>
-			</Point>
-			<name>St Martins Close, Camden Town</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>604</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.163667,51.520331</coordinates>
 			</Point>
 			<name>Seymour Place, Marylebone</name>
