@@ -9844,26 +9844,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.020068,51.50357</coordinates>
-			</Point>
-			<name>Jubilee Plaza, Canary Wharf</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>532</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.069743,51.528222</coordinates>
 			</Point>
 			<name>Wellington Row, Bethnal Green</name>
