@@ -2195,7 +2195,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>false</value>
+					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -2655,7 +2655,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>false</value>
+					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -2955,7 +2955,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>false</value>
+					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -3790,6 +3790,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>200</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>true</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.161113413,51.5225965</coordinates>
+			</Point>
+			<name>Dorset Square, Marylebone</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>201</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
