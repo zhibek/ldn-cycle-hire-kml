@@ -7313,7 +7313,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279369320000</value>
@@ -7404,10 +7404,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>8</value>
+					<value>7</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>10</value>
+					<value>11</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>18</value>
@@ -7534,6 +7534,47 @@
 				</Data>
 				<Data name="nbDocks">
 					<value>16</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.100186337,51.50581776</coordinates>
+			</Point>
+			<name>Bankside Mix, Bankside</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>193</value>
+				</Data>
+				<Data name="terminalName">
+					<value>000963</value>
+				</Data>
+				<Data name="lat">
+					<value>51.50581776</value>
+				</Data>
+				<Data name="long">
+					<value>-0.100186337</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="installDate">
+					<value>1279396079356</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+				<Data name="nbBikes">
+					<value>23</value>
+				</Data>
+				<Data name="nbEmptyDocks">
+					<value>37</value>
+				</Data>
+				<Data name="nbDocks">
+					<value>60</value>
 				</Data>
 			</ExtendedData>
 		</Placemark>
