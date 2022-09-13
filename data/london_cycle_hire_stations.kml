@@ -7064,26 +7064,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.179077626,51.49559291</coordinates>
-			</Point>
-			<name>Natural History Museum, South Kensington</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>378</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.200838199,51.51431171</coordinates>
 			</Point>
 			<name>Turquoise Island, Notting Hill</name>
@@ -7310,26 +7290,6 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>391</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.179702476,51.49942855</coordinates>
-			</Point>
-			<name>Imperial College, Knightsbridge</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>392</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -10350,26 +10310,6 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>562</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.009152,51.499286</coordinates>
-			</Point>
-			<name>Preston's Road, Cubitt Town</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>563</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
