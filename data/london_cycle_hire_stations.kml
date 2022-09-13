@@ -1904,6 +1904,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.158264483,51.51457763</coordinates>
+			</Point>
+			<name>Old Quebec Street, Marylebone</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>99</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.122806861,51.49043573</coordinates>
 			</Point>
 			<name>Albert Embankment, Vauxhall</name>
@@ -11050,6 +11070,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>603</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.138535,51.538792</coordinates>
+			</Point>
+			<name>St Martins Close, Camden Town</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>604</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
