@@ -7384,26 +7384,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.154106,51.517703</coordinates>
-			</Point>
-			<name>George Street, Marylebone</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>400</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.075375,51.528187</coordinates>
 			</Point>
 			<name>Columbia Road, Shoreditch</name>
