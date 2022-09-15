@@ -2724,26 +2724,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.198286569,51.49372451</coordinates>
-			</Point>
-			<name>West Cromwell Road, Earl's Court</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>142</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.161203828,51.4968865</coordinates>
 			</Point>
 			<name>Pont Street, Knightsbridge</name>
@@ -5610,26 +5590,6 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>302</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.158456089,51.50295379</coordinates>
-			</Point>
-			<name>Albert Gate, Hyde Park</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>303</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -12030,26 +11990,6 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>659</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.206029743,51.49087074</coordinates>
-			</Point>
-			<name>West Kensington Station, West Kensington</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>660</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
