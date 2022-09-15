@@ -475,7 +475,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>false</value>
+					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -3644,26 +3644,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.153520935,51.50311799</coordinates>
-			</Point>
-			<name>Hyde Park Corner, Hyde Park</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>191</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.133201961,51.51251523</coordinates>
 			</Point>
 			<name>Wardour Street, Soho</name>
@@ -4010,26 +3990,6 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>212</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.149569201,51.50274025</coordinates>
-			</Point>
-			<name>Wellington Arch, Hyde Park</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>213</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
