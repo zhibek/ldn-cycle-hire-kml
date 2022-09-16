@@ -475,7 +475,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -10750,26 +10750,6 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>597</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.228188,51.494499</coordinates>
-			</Point>
-			<name>Southerton Road, Hammersmith</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>598</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
