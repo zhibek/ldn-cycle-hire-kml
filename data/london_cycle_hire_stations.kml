@@ -475,7 +475,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>false</value>
+					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -5830,6 +5830,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>316</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.093913472,51.49679128</coordinates>
+			</Point>
+			<name>Dickens Square, Borough</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>317</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
