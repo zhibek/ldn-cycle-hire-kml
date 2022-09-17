@@ -4084,26 +4084,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.155349725,51.50275704</coordinates>
-			</Point>
-			<name>Knightsbridge, Hyde Park</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>222</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.090220911,51.49148474</coordinates>
 			</Point>
 			<name>Rodney Road , Walworth</name>
