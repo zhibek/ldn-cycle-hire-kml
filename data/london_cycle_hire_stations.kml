@@ -464,26 +464,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.124678402,51.51908011</coordinates>
-			</Point>
-			<name>British Museum, Bloomsbury</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>24</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.132250369,51.5288338</coordinates>
 			</Point>
 			<name>Doric Way , Somers Town</name>
@@ -15296,26 +15276,6 @@
 				</Data>
 				<Data name="locked">
 					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.10832249,51.510981</coordinates>
-			</Point>
-			<name>Temple Gardens, Temple</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>842</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
