@@ -7324,26 +7324,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.184400221,51.50204238</coordinates>
-			</Point>
-			<name>Palace Gate, Kensington Gardens</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>404</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.18267094,51.49418566</coordinates>
 			</Point>
 			<name>Gloucester Road Station, South Kensington</name>
