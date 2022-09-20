@@ -464,6 +464,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.124678402,51.51908011</coordinates>
+			</Point>
+			<name>British Museum, Bloomsbury</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>24</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.132250369,51.5288338</coordinates>
 			</Point>
 			<name>Doric Way , Somers Town</name>
@@ -3590,6 +3610,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>190</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.153520935,51.50311799</coordinates>
+			</Point>
+			<name>Hyde Park Corner, Hyde Park</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>191</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
