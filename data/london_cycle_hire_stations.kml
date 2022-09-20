@@ -2884,6 +2884,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.174411,51.511933</coordinates>
+			</Point>
+			<name>Bayswater Road, Hyde Park</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>153</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.11282408,51.50379168</coordinates>
 			</Point>
 			<name>Waterloo Station 3, Waterloo</name>
@@ -4544,6 +4564,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.170279555,51.50645179</coordinates>
+			</Point>
+			<name>Triangle Car Park, Hyde Park</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>248</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.096191134,51.49859784</coordinates>
 			</Point>
 			<name>Harper Road, The Borough</name>
@@ -5510,6 +5550,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>299</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.17306032,51.505014</coordinates>
+			</Point>
+			<name>Serpentine Car Park, Hyde Park</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>300</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -7324,6 +7384,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.184400221,51.50204238</coordinates>
+			</Point>
+			<name>Palace Gate, Kensington Gardens</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>404</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.18267094,51.49418566</coordinates>
 			</Point>
 			<name>Gloucester Road Station, South Kensington</name>
@@ -7550,6 +7630,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>426</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.09294031,51.51397065</coordinates>
+			</Point>
+			<name>Cheapside, Bank</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>427</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -9710,6 +9810,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>540</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.142844,51.506613</coordinates>
+			</Point>
+			<name>Green Park Station, Mayfair</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>541</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -13790,6 +13910,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>761</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.129698963,51.50070305</coordinates>
+			</Point>
+			<name>Storey's Gate, Westminster</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>762</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
