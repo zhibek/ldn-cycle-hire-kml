@@ -7224,6 +7224,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.179702476,51.49942855</coordinates>
+			</Point>
+			<name>Imperial College, Knightsbridge</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>392</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.103604248,51.51733427</coordinates>
 			</Point>
 			<name>Snow Hill, Farringdon</name>
