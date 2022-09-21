@@ -6504,6 +6504,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.1798541843891,51.5017154373867</coordinates>
+			</Point>
+			<name>Queen's Gate, Kensington Gardens</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>350</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.097122,51.529423</coordinates>
 			</Point>
 			<name>Macclesfield Rd, St Lukes</name>
