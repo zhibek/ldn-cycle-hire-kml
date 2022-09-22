@@ -10944,6 +10944,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.228188,51.494499</coordinates>
+			</Point>
+			<name>Southerton Road, Hammersmith</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>598</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.223616,51.485743</coordinates>
 			</Point>
 			<name>Manbre Road, Hammersmith</name>
