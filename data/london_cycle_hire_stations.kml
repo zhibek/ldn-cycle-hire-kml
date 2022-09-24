@@ -5744,6 +5744,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.158456089,51.50295379</coordinates>
+			</Point>
+			<name>Albert Gate, Hyde Park</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>303</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.135025698,51.51816295</coordinates>
 			</Point>
 			<name>Rathbone Street, Fitzrovia</name>
@@ -10770,6 +10790,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>581</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.12597218,51.49764</coordinates>
+			</Point>
+			<name>Abingdon Green, Westminster</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>583</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
