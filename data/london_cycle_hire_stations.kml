@@ -4704,6 +4704,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.096191134,51.49859784</coordinates>
+			</Point>
+			<name>Harper Road, The Borough</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>249</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.162727,51.489932</coordinates>
 			</Point>
 			<name>Royal Avenue 1, Chelsea</name>
