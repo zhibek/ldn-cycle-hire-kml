@@ -3944,26 +3944,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.153194766,51.50135267</coordinates>
-			</Point>
-			<name>Grosvenor Crescent, Belgravia</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>207</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.166304359,51.52505151</coordinates>
 			</Point>
 			<name>Mallory Street, Marylebone</name>
