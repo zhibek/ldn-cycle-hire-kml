@@ -864,6 +864,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.06691,51.507131</coordinates>
+			</Point>
+			<name>Nesham Street, Wapping</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>46</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.183846408,51.52334476</coordinates>
 			</Point>
 			<name>Warwick Avenue Station, Maida Vale</name>
@@ -4344,6 +4364,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.123179697,51.50654321</coordinates>
+			</Point>
+			<name>Whitehall Place, Strand</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>229</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.103137426,51.50669284</coordinates>
 			</Point>
 			<name>Poured Lines, Bankside</name>
@@ -6670,6 +6710,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>353</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.123702,51.506767</coordinates>
+			</Point>
+			<name>Northumberland Avenue, Strand</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>354</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -9830,6 +9890,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>531</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.020068,51.50357</coordinates>
+			</Point>
+			<name>Jubilee Plaza, Canary Wharf</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>532</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
