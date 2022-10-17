@@ -8004,26 +8004,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.17379696,51.496468</coordinates>
-			</Point>
-			<name>Exhibition Road Museums 1, South Kensington</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>432</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.116279,51.524564</coordinates>
 			</Point>
 			<name>Wren Street, Holborn</name>
@@ -8975,7 +8955,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>false</value>
+					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
