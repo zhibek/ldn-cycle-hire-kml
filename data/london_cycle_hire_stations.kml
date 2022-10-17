@@ -5504,26 +5504,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.151296092,51.50923022</coordinates>
-			</Point>
-			<name>South Audley Street, Mayfair</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>289</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.17110323,51.518268</coordinates>
 			</Point>
 			<name>St Mary's Hospital, Paddington</name>
@@ -8936,26 +8916,6 @@
 				</Data>
 				<Data name="locked">
 					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.17368958,51.495947</coordinates>
-			</Point>
-			<name>Exhibition Road Museums 2, South Kensington</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>482</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
