@@ -12424,6 +12424,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.072350665,51.492668</coordinates>
+			</Point>
+			<name>Harris Academy, Bermondsey</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>666</value>
+				</Data>
+				<Data name="installed">
+					<value>false</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.222293381,51.5015946</coordinates>
 			</Point>
 			<name>Shepherd's Bush Road North, Shepherd's Bush</name>
@@ -15813,6 +15833,26 @@
 				</Data>
 				<Data name="installed">
 					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.06251309999998966,51.492221</coordinates>
+			</Point>
+			<name>The Blue, Bermondsey</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>851</value>
+				</Data>
+				<Data name="installed">
+					<value>false</value>
 				</Data>
 				<Data name="locked">
 					<value>false</value>
