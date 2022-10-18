@@ -12432,7 +12432,7 @@
 					<value>666</value>
 				</Data>
 				<Data name="installed">
-					<value>false</value>
+					<value>true</value>
 				</Data>
 				<Data name="locked">
 					<value>false</value>
@@ -15852,7 +15852,7 @@
 					<value>851</value>
 				</Data>
 				<Data name="installed">
-					<value>false</value>
+					<value>true</value>
 				</Data>
 				<Data name="locked">
 					<value>false</value>
