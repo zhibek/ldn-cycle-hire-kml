@@ -6505,10 +6505,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>7</value>
+					<value>8</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>8</value>
+					<value>7</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>15</value>
@@ -7445,10 +7445,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>0</value>
+					<value>1</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>18</value>
+					<value>17</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>18</value>
@@ -18166,10 +18166,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>15</value>
+					<value>14</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>6</value>
+					<value>7</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>21</value>
