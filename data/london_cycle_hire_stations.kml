@@ -2024,26 +2024,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.190240716,51.51552971</coordinates>
-			</Point>
-			<name>Westbourne Grove, Bayswater</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>105</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.147301667,51.51410514</coordinates>
 			</Point>
 			<name>Woodstock Street, Mayfair</name>
