@@ -904,26 +904,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.183846408,51.52334476</coordinates>
-			</Point>
-			<name>Warwick Avenue Station, Maida Vale</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>47</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.099141408,51.51248445</coordinates>
 			</Point>
 			<name>Godliman Street, St. Paul's</name>
