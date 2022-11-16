@@ -1424,6 +1424,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.105480698,51.53219984</coordinates>
+			</Point>
+			<name>Torrens Street, Angel</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>75</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.144083893,51.52559505</coordinates>
 			</Point>
 			<name>Longford Street, The Regent's Park</name>
