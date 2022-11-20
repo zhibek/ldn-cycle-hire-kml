@@ -10324,6 +10324,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.021596,51.502661</coordinates>
+			</Point>
+			<name>Heron Quays DLR, Canary Wharf</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>556</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.0985,51.51601</coordinates>
 			</Point>
 			<name>King Edward Street, St Pauls</name>
