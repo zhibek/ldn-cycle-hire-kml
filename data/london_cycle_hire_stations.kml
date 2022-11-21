@@ -9644,26 +9644,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.037366,51.534137</coordinates>
-			</Point>
-			<name>Driffield Road, Old Ford</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>521</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.036017,51.525941</coordinates>
 			</Point>
 			<name>Clinton Road, Mile End</name>
