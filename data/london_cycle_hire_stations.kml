@@ -10224,26 +10224,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.016460175,51.505772</coordinates>
-			</Point>
-			<name>Import Dock, Canary Wharf</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>551</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.056667,51.511542</coordinates>
 			</Point>
 			<name>Watney Street, Shadwell</name>
