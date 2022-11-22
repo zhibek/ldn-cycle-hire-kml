@@ -27,7 +27,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278950880000</value>
+					<value>1278947280000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -68,7 +68,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278589380000</value>
+					<value>1278585780000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -109,7 +109,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278243960000</value>
+					<value>1278240360000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -150,7 +150,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278244680000</value>
+					<value>1278241080000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -191,7 +191,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278245040000</value>
+					<value>1278241440000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -232,7 +232,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278245280000</value>
+					<value>1278241680000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -273,7 +273,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278245400000</value>
+					<value>1278241800000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -355,7 +355,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278245940000</value>
+					<value>1278242340000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -396,7 +396,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278246060000</value>
+					<value>1278242460000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -437,7 +437,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278344040000</value>
+					<value>1278340440000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -478,7 +478,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278344220000</value>
+					<value>1278340620000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -519,7 +519,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278344400000</value>
+					<value>1278340800000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -560,16 +560,16 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278344640000</value>
+					<value>1278341040000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>38</value>
+					<value>39</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>10</value>
+					<value>9</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>48</value>
@@ -601,7 +601,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278344820000</value>
+					<value>1278341220000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -642,7 +642,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278345000000</value>
+					<value>1278341400000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -683,7 +683,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278427320000</value>
+					<value>1278423720000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -724,7 +724,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278429900000</value>
+					<value>1278426300000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -765,7 +765,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278430320000</value>
+					<value>1278426720000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -847,7 +847,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278431340000</value>
+					<value>1278427740000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -888,7 +888,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278432480000</value>
+					<value>1278428880000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -929,7 +929,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278432900000</value>
+					<value>1278429300000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -970,7 +970,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278433740000</value>
+					<value>1278430140000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -1011,7 +1011,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278436800000</value>
+					<value>1278433200000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -1052,7 +1052,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278437760000</value>
+					<value>1278434160000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -1093,7 +1093,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278503760000</value>
+					<value>1278500160000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -1134,7 +1134,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278504060000</value>
+					<value>1278500460000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -1175,7 +1175,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278504780000</value>
+					<value>1278501180000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -1216,7 +1216,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278505020000</value>
+					<value>1278501420000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -1257,7 +1257,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278505200000</value>
+					<value>1278501600000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -1298,7 +1298,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278510300000</value>
+					<value>1278506700000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -1339,7 +1339,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278510540000</value>
+					<value>1278506940000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -1380,7 +1380,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278510660000</value>
+					<value>1278507060000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -1389,10 +1389,10 @@
 					<value>9</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>7</value>
+					<value>6</value>
 				</Data>
 				<Data name="nbDocks">
-					<value>16</value>
+					<value>15</value>
 				</Data>
 			</ExtendedData>
 		</Placemark>
@@ -1421,7 +1421,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278523500000</value>
+					<value>1278519900000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -1462,7 +1462,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278523620000</value>
+					<value>1278520020000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -1503,7 +1503,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278588480000</value>
+					<value>1278584880000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -1544,16 +1544,16 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278605340000</value>
+					<value>1278601740000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>17</value>
+					<value>18</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>24</value>
+					<value>23</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>41</value>
@@ -1585,7 +1585,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278605580000</value>
+					<value>1278601980000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -1626,7 +1626,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278605880000</value>
+					<value>1278602280000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -1667,7 +1667,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278606300000</value>
+					<value>1278602700000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -1708,7 +1708,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278691320000</value>
+					<value>1278687720000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -1749,7 +1749,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278691500000</value>
+					<value>1278687900000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -1790,7 +1790,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278694920000</value>
+					<value>1278691320000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -1831,7 +1831,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278695400000</value>
+					<value>1278691800000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -1872,7 +1872,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278753060000</value>
+					<value>1278749460000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -1913,7 +1913,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278753540000</value>
+					<value>1278749940000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -1954,7 +1954,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278753840000</value>
+					<value>1278750240000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -1995,7 +1995,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278754140000</value>
+					<value>1278750540000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -2036,7 +2036,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278754440000</value>
+					<value>1278750840000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -2077,7 +2077,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278756180000</value>
+					<value>1278752580000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -2118,7 +2118,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278770340000</value>
+					<value>1278766740000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -2159,7 +2159,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278770580000</value>
+					<value>1278766980000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -2200,7 +2200,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278770820000</value>
+					<value>1278767220000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -2241,7 +2241,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278771060000</value>
+					<value>1278767460000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -2282,7 +2282,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278771300000</value>
+					<value>1278767700000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -2323,7 +2323,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278772740000</value>
+					<value>1278769140000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -2364,7 +2364,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278777420000</value>
+					<value>1278773820000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -2405,7 +2405,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278777540000</value>
+					<value>1278773940000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -2446,7 +2446,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278777720000</value>
+					<value>1278774120000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -2487,7 +2487,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278777900000</value>
+					<value>1278774300000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -2528,7 +2528,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278844260000</value>
+					<value>1278840660000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -2569,7 +2569,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278848880000</value>
+					<value>1278845280000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -2610,7 +2610,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278851040000</value>
+					<value>1278847440000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -2651,7 +2651,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278860640000</value>
+					<value>1278857040000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -2692,7 +2692,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278865140000</value>
+					<value>1278861540000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -2733,7 +2733,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278866940000</value>
+					<value>1278863340000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -2774,7 +2774,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278928500000</value>
+					<value>1278924900000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -2815,7 +2815,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1276952460000</value>
+					<value>1276948860000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -2856,7 +2856,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278944640000</value>
+					<value>1278941040000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -2897,7 +2897,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278944760000</value>
+					<value>1278941160000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -2938,7 +2938,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278948780000</value>
+					<value>1278945180000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -2979,7 +2979,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278950160000</value>
+					<value>1278946560000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -3020,7 +3020,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278950460000</value>
+					<value>1278946860000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -3061,7 +3061,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278952080000</value>
+					<value>1278948480000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -3102,7 +3102,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1278956040000</value>
+					<value>1278952440000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -3143,7 +3143,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279016580000</value>
+					<value>1279012980000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -3184,7 +3184,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279019280000</value>
+					<value>1279015680000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -3225,7 +3225,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279019400000</value>
+					<value>1279015800000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -3266,7 +3266,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279023840000</value>
+					<value>1279020240000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -3307,7 +3307,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279029660000</value>
+					<value>1279026060000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -3348,7 +3348,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279030740000</value>
+					<value>1279027140000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -3389,7 +3389,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279031280000</value>
+					<value>1279027680000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -3430,7 +3430,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279031880000</value>
+					<value>1279028280000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -3471,16 +3471,16 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279032960000</value>
+					<value>1279029360000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>8</value>
+					<value>9</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>11</value>
+					<value>10</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>19</value>
@@ -3512,7 +3512,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279033620000</value>
+					<value>1279030020000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -3553,7 +3553,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279040340000</value>
+					<value>1279036740000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -3594,7 +3594,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279040640000</value>
+					<value>1279037040000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -3635,7 +3635,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279041360000</value>
+					<value>1279037760000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -3676,7 +3676,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279042020000</value>
+					<value>1279038420000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -3717,7 +3717,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279100160000</value>
+					<value>1279096560000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -3758,7 +3758,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279100580000</value>
+					<value>1279096980000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -3799,7 +3799,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279101180000</value>
+					<value>1279097580000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -3840,7 +3840,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279102680000</value>
+					<value>1279099080000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -3881,7 +3881,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279103280000</value>
+					<value>1279099680000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -3922,7 +3922,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279103460000</value>
+					<value>1279099860000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -3963,7 +3963,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279106280000</value>
+					<value>1279102680000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -4004,7 +4004,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279106460000</value>
+					<value>1279102860000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -4045,7 +4045,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279107120000</value>
+					<value>1279103520000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -4086,7 +4086,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279107360000</value>
+					<value>1279103760000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -4127,7 +4127,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279108920000</value>
+					<value>1279105320000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -4168,7 +4168,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279110480000</value>
+					<value>1279106880000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -4209,7 +4209,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279111080000</value>
+					<value>1279107480000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -4250,7 +4250,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279111320000</value>
+					<value>1279107720000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -4291,7 +4291,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279111920000</value>
+					<value>1279108320000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -4332,7 +4332,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279112520000</value>
+					<value>1279108920000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -4373,7 +4373,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279112760000</value>
+					<value>1279109160000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -4414,7 +4414,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279119060000</value>
+					<value>1279115460000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -4455,7 +4455,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279120200000</value>
+					<value>1279116600000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -4496,7 +4496,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279123500000</value>
+					<value>1279119900000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -4537,7 +4537,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279124280000</value>
+					<value>1279120680000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -4578,7 +4578,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279125960000</value>
+					<value>1279122360000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -4619,7 +4619,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279127820000</value>
+					<value>1279124220000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -4660,7 +4660,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279128120000</value>
+					<value>1279124520000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -4701,7 +4701,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279128360000</value>
+					<value>1279124760000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -4742,7 +4742,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279190640000</value>
+					<value>1279187040000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -4783,7 +4783,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279192800000</value>
+					<value>1279189200000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -4824,7 +4824,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279193640000</value>
+					<value>1279190040000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -4865,7 +4865,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279194900000</value>
+					<value>1279191300000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -4906,7 +4906,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279195140000</value>
+					<value>1279191540000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -4947,7 +4947,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279195800000</value>
+					<value>1279192200000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -4988,7 +4988,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279196940000</value>
+					<value>1279193340000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -5029,7 +5029,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279197120000</value>
+					<value>1279193520000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -5070,7 +5070,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279197660000</value>
+					<value>1279194060000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -5111,7 +5111,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279202100000</value>
+					<value>1279198500000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -5152,7 +5152,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279202400000</value>
+					<value>1279198800000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -5193,7 +5193,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279202880000</value>
+					<value>1279199280000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -5234,7 +5234,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279203120000</value>
+					<value>1279199520000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -5275,7 +5275,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279203840000</value>
+					<value>1279200240000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -5316,7 +5316,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279204500000</value>
+					<value>1279200900000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -5357,7 +5357,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279204680000</value>
+					<value>1279201080000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -5398,7 +5398,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279204800000</value>
+					<value>1279201200000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -5439,7 +5439,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279208820000</value>
+					<value>1279205220000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -5480,7 +5480,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279209060000</value>
+					<value>1279205460000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -5521,7 +5521,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279209180000</value>
+					<value>1279205580000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -5562,7 +5562,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279214580000</value>
+					<value>1279210980000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -5603,7 +5603,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279214820000</value>
+					<value>1279211220000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -5644,7 +5644,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279215000000</value>
+					<value>1279211400000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -5685,7 +5685,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279215180000</value>
+					<value>1279211580000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -5726,7 +5726,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279215780000</value>
+					<value>1279212180000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -5767,7 +5767,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279215960000</value>
+					<value>1279212360000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -5808,7 +5808,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279218360000</value>
+					<value>1279214760000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -5887,7 +5887,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279218960000</value>
+					<value>1279215360000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -5928,7 +5928,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279219140000</value>
+					<value>1279215540000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -5969,7 +5969,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279219320000</value>
+					<value>1279215720000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -6010,7 +6010,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279219500000</value>
+					<value>1279215900000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -6051,7 +6051,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279219680000</value>
+					<value>1279216080000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -6130,7 +6130,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279276260000</value>
+					<value>1279272660000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -6171,7 +6171,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279276680000</value>
+					<value>1279273080000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -6212,7 +6212,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279276800000</value>
+					<value>1279273200000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -6253,7 +6253,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279276920000</value>
+					<value>1279273320000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -6294,7 +6294,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279277880000</value>
+					<value>1279274280000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -6335,7 +6335,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279290540000</value>
+					<value>1279286940000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -6376,7 +6376,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279290720000</value>
+					<value>1279287120000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -6417,7 +6417,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279290900000</value>
+					<value>1279287300000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -6458,7 +6458,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279291200000</value>
+					<value>1279287600000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -6499,7 +6499,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279291560000</value>
+					<value>1279287960000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -6540,7 +6540,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279291740000</value>
+					<value>1279288140000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -6619,7 +6619,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279293000000</value>
+					<value>1279289400000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -6660,7 +6660,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279293360000</value>
+					<value>1279289760000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -6701,7 +6701,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279293780000</value>
+					<value>1279290180000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -6742,7 +6742,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279294800000</value>
+					<value>1279291200000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -6783,7 +6783,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279295100000</value>
+					<value>1279291500000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -6824,7 +6824,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279296300000</value>
+					<value>1279292700000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -6865,7 +6865,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279299540000</value>
+					<value>1279295940000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -6906,7 +6906,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1529678580000</value>
+					<value>1529674980000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -6947,7 +6947,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279301160000</value>
+					<value>1279297560000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -6988,7 +6988,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279301340000</value>
+					<value>1279297740000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -7029,7 +7029,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279301520000</value>
+					<value>1279297920000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -7070,7 +7070,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279301820000</value>
+					<value>1279298220000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -7111,7 +7111,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279302060000</value>
+					<value>1279298460000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -7152,7 +7152,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279366740000</value>
+					<value>1279363140000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -7193,7 +7193,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279367760000</value>
+					<value>1279364160000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -7234,7 +7234,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279367880000</value>
+					<value>1279364280000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -7275,7 +7275,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279368960000</value>
+					<value>1279365360000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -7316,7 +7316,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279369080000</value>
+					<value>1279365480000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -7357,7 +7357,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279369320000</value>
+					<value>1279365720000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -7398,7 +7398,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279380360000</value>
+					<value>1279376760000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -7439,7 +7439,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279380780000</value>
+					<value>1279377180000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -7480,7 +7480,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279384680000</value>
+					<value>1279381080000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -7521,7 +7521,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279386720000</value>
+					<value>1279383120000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -7562,7 +7562,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279386900000</value>
+					<value>1279383300000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -7603,7 +7603,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279396079356</value>
+					<value>1279392479356</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -7644,7 +7644,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279396079395</value>
+					<value>1279392479395</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -7685,7 +7685,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279396079432</value>
+					<value>1279392479432</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -7726,7 +7726,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279396079471</value>
+					<value>1279392479471</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -7767,7 +7767,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279396079520</value>
+					<value>1279392479520</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -7808,7 +7808,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279445400000</value>
+					<value>1279441800000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -7849,7 +7849,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279445520000</value>
+					<value>1279441920000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -7890,7 +7890,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279447680000</value>
+					<value>1279444080000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -7931,7 +7931,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279447920000</value>
+					<value>1279444320000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -7972,7 +7972,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279449180000</value>
+					<value>1279445580000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -8013,7 +8013,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279470240000</value>
+					<value>1279466640000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -8054,7 +8054,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279474980000</value>
+					<value>1279471380000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -8095,7 +8095,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279561740000</value>
+					<value>1279558140000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -8136,7 +8136,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279476180000</value>
+					<value>1279472580000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -8177,7 +8177,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279532760000</value>
+					<value>1279529160000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -8218,7 +8218,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279538760000</value>
+					<value>1279535160000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -8259,7 +8259,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279539420000</value>
+					<value>1279535820000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -8300,7 +8300,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279540440000</value>
+					<value>1279536840000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -8341,7 +8341,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279540620000</value>
+					<value>1279537020000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -8382,7 +8382,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279540800000</value>
+					<value>1279537200000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -8423,7 +8423,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279540980000</value>
+					<value>1279537380000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -8464,7 +8464,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279541520000</value>
+					<value>1279537920000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -8505,7 +8505,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279541640000</value>
+					<value>1279538040000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -8546,7 +8546,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279547340000</value>
+					<value>1279543740000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -8587,7 +8587,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279555800000</value>
+					<value>1279552200000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -8628,7 +8628,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279617720000</value>
+					<value>1279614120000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -8669,7 +8669,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279618020000</value>
+					<value>1279614420000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -8710,7 +8710,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279618620000</value>
+					<value>1279615020000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -8751,7 +8751,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279619880000</value>
+					<value>1279616280000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -8792,7 +8792,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279620120000</value>
+					<value>1279616520000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -8833,7 +8833,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279620300000</value>
+					<value>1279616700000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -8874,7 +8874,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279620480000</value>
+					<value>1279616880000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -8915,7 +8915,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279621380000</value>
+					<value>1279617780000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -8956,7 +8956,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279621620000</value>
+					<value>1279618020000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -8997,7 +8997,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279626420000</value>
+					<value>1279622820000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -9038,7 +9038,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279626840000</value>
+					<value>1279623240000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -9079,7 +9079,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279627860000</value>
+					<value>1279624260000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -9120,7 +9120,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279628280000</value>
+					<value>1279624680000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -9161,7 +9161,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279629240000</value>
+					<value>1279625640000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -9202,7 +9202,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279629540000</value>
+					<value>1279625940000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -9243,7 +9243,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279802640000</value>
+					<value>1279799040000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -9284,16 +9284,16 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279631520000</value>
+					<value>1279627920000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>22</value>
+					<value>21</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>10</value>
+					<value>11</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>32</value>
@@ -9325,7 +9325,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279631760000</value>
+					<value>1279628160000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -9366,7 +9366,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279632240000</value>
+					<value>1279628640000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -9407,7 +9407,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279632540000</value>
+					<value>1279628940000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -9448,7 +9448,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279632840000</value>
+					<value>1279629240000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -9489,7 +9489,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279633260000</value>
+					<value>1279629660000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -9530,7 +9530,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279643340000</value>
+					<value>1279639740000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -9571,7 +9571,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279643520000</value>
+					<value>1279639920000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -9612,7 +9612,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279643760000</value>
+					<value>1279640160000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -9653,7 +9653,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279644000000</value>
+					<value>1279640400000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -9694,7 +9694,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279644600000</value>
+					<value>1279641000000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -9735,7 +9735,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279703760000</value>
+					<value>1279700160000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -9776,7 +9776,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279704240000</value>
+					<value>1279700640000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -9817,7 +9817,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279704420000</value>
+					<value>1279700820000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -9858,7 +9858,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279704540000</value>
+					<value>1279700940000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -9899,7 +9899,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279711620000</value>
+					<value>1279708020000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -9940,7 +9940,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279711740000</value>
+					<value>1279708140000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -9981,7 +9981,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279711980000</value>
+					<value>1279708380000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -10022,7 +10022,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279712700000</value>
+					<value>1279709100000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -10063,7 +10063,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279714620000</value>
+					<value>1279711020000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -10104,7 +10104,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279714800000</value>
+					<value>1279711200000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -10145,7 +10145,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279715220000</value>
+					<value>1279711620000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -10186,7 +10186,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279715760000</value>
+					<value>1279712160000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -10227,7 +10227,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279716120000</value>
+					<value>1279712520000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -10268,7 +10268,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279717920000</value>
+					<value>1279714320000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -10309,7 +10309,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279718160000</value>
+					<value>1279714560000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -10350,7 +10350,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279718340000</value>
+					<value>1279714740000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -10391,7 +10391,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279718520000</value>
+					<value>1279714920000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -10432,7 +10432,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279718700000</value>
+					<value>1279715100000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -10473,7 +10473,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279723980000</value>
+					<value>1279720380000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -10514,7 +10514,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279724520000</value>
+					<value>1279720920000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -10555,7 +10555,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279724820000</value>
+					<value>1279721220000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -10596,7 +10596,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279725000000</value>
+					<value>1279721400000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -10637,7 +10637,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279725180000</value>
+					<value>1279721580000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -10678,7 +10678,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279725480000</value>
+					<value>1279721880000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -10719,7 +10719,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279726800000</value>
+					<value>1279723200000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -10760,7 +10760,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279726920000</value>
+					<value>1279723320000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -10801,7 +10801,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279727100000</value>
+					<value>1279723500000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -10842,7 +10842,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279727340000</value>
+					<value>1279723740000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -10883,7 +10883,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279730040000</value>
+					<value>1279726440000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -10924,7 +10924,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279730220000</value>
+					<value>1279726620000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -10965,7 +10965,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279730580000</value>
+					<value>1279726980000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -11006,7 +11006,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279730820000</value>
+					<value>1279727220000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -11047,7 +11047,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279731180000</value>
+					<value>1279727580000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -11088,7 +11088,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279731480000</value>
+					<value>1279727880000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -11129,7 +11129,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279731660000</value>
+					<value>1279728060000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -11170,7 +11170,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279797420000</value>
+					<value>1279793820000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -11211,7 +11211,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279797660000</value>
+					<value>1279794060000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -11252,7 +11252,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279798740000</value>
+					<value>1279795140000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -11293,7 +11293,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279804020000</value>
+					<value>1279800420000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -11334,7 +11334,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279804200000</value>
+					<value>1279800600000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -11375,7 +11375,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279804380000</value>
+					<value>1279800780000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -11416,7 +11416,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279804500000</value>
+					<value>1279800900000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -11457,7 +11457,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279804680000</value>
+					<value>1279801080000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -11498,7 +11498,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1377262560000</value>
+					<value>1377258960000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -11539,7 +11539,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279805160000</value>
+					<value>1279801560000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -11580,7 +11580,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279809240000</value>
+					<value>1279805640000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -11621,7 +11621,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279811760000</value>
+					<value>1279808160000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -11662,7 +11662,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279812300000</value>
+					<value>1279808700000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -11703,7 +11703,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279812600000</value>
+					<value>1279809000000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -11744,7 +11744,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279815960000</value>
+					<value>1279812360000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -11785,16 +11785,16 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279816320000</value>
+					<value>1279812720000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>22</value>
+					<value>24</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>12</value>
+					<value>10</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>34</value>
@@ -11826,7 +11826,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279819860000</value>
+					<value>1279816260000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -11867,7 +11867,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279820100000</value>
+					<value>1279816500000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -11908,7 +11908,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279820340000</value>
+					<value>1279816740000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -11949,7 +11949,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279878660000</value>
+					<value>1279875060000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -11990,7 +11990,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279883160000</value>
+					<value>1279879560000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -12031,7 +12031,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279883700000</value>
+					<value>1279880100000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -12072,7 +12072,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279883940000</value>
+					<value>1279880340000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -12113,7 +12113,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279884120000</value>
+					<value>1279880520000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -12154,7 +12154,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279888080000</value>
+					<value>1279884480000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -12195,7 +12195,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279888260000</value>
+					<value>1279884660000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -12236,10 +12236,10 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279888440000</value>
+					<value>1279884840000</value>
 				</Data>
 				<Data name="removalDate">
-					<value>1539849360000</value>
+					<value>1539845760000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -12280,7 +12280,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279888680000</value>
+					<value>1279885080000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -12321,7 +12321,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279888920000</value>
+					<value>1279885320000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -12362,7 +12362,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279893960000</value>
+					<value>1279890360000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -12403,7 +12403,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279894440000</value>
+					<value>1279890840000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -12444,7 +12444,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279894620000</value>
+					<value>1279891020000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -12485,7 +12485,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279895520000</value>
+					<value>1279891920000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -12526,7 +12526,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279895640000</value>
+					<value>1279892040000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -12567,7 +12567,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279898520000</value>
+					<value>1279894920000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -12608,7 +12608,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279900260000</value>
+					<value>1279896660000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -12649,7 +12649,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1279900440000</value>
+					<value>1279896840000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -12690,7 +12690,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1280137020000</value>
+					<value>1280133420000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -12731,7 +12731,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1280137140000</value>
+					<value>1280133540000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -12772,7 +12772,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1280137320000</value>
+					<value>1280133720000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -12813,7 +12813,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1280144880000</value>
+					<value>1280141280000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -12854,7 +12854,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1280145060000</value>
+					<value>1280141460000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -12895,7 +12895,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1280145960000</value>
+					<value>1280142360000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -12936,7 +12936,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1280146140000</value>
+					<value>1280142540000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -12977,7 +12977,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1280151180000</value>
+					<value>1280147580000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -13018,7 +13018,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1280156160000</value>
+					<value>1280152560000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -13059,7 +13059,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1280156400000</value>
+					<value>1280152800000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -13100,7 +13100,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1280156700000</value>
+					<value>1280153100000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -13141,7 +13141,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1280162340000</value>
+					<value>1280158740000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -13182,7 +13182,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1280164200000</value>
+					<value>1280160600000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -13223,7 +13223,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1280252220000</value>
+					<value>1280248620000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -13264,7 +13264,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1280225760000</value>
+					<value>1280222160000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -13305,7 +13305,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1280227860000</value>
+					<value>1280224260000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -13346,7 +13346,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1280229720000</value>
+					<value>1280226120000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -13387,7 +13387,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1280233320000</value>
+					<value>1280229720000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -13428,7 +13428,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1283766060000</value>
+					<value>1283762460000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -13469,7 +13469,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1284544140000</value>
+					<value>1284540540000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -13510,7 +13510,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1284546720000</value>
+					<value>1284543120000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -13551,7 +13551,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1285759860000</value>
+					<value>1285756260000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -13592,7 +13592,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1286794080000</value>
+					<value>1286790480000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -13633,7 +13633,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1286799960000</value>
+					<value>1286796360000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -13674,7 +13674,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1287655680000</value>
+					<value>1287652080000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -13753,7 +13753,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1287756060000</value>
+					<value>1287752460000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -13794,7 +13794,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1288012680000</value>
+					<value>1288009080000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -13835,7 +13835,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1288096020000</value>
+					<value>1288092420000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -14169,10 +14169,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>3</value>
+					<value>4</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>24</value>
+					<value>23</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>27</value>
@@ -14983,7 +14983,7 @@
 					<value>1297956480000</value>
 				</Data>
 				<Data name="removalDate">
-					<value>1539849600000</value>
+					<value>1539846000000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -15747,7 +15747,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1302009780000</value>
+					<value>1302006180000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -15788,7 +15788,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1308738900000</value>
+					<value>1308735300000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -15829,16 +15829,16 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1309261980000</value>
+					<value>1309258380000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>5</value>
+					<value>6</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>32</value>
+					<value>31</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>37</value>
@@ -15870,7 +15870,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1309262040000</value>
+					<value>1309258440000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -15911,7 +15911,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1309863840000</value>
+					<value>1309860240000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -15993,7 +15993,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1310467320000</value>
+					<value>1310463720000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -16034,7 +16034,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1310729280000</value>
+					<value>1310725680000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -16075,7 +16075,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1318499700000</value>
+					<value>1318496100000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -16198,7 +16198,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1319452320000</value>
+					<value>1319448720000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -17463,7 +17463,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1333616880000</value>
+					<value>1333613280000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -18166,10 +18166,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>1</value>
+					<value>2</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>13</value>
+					<value>12</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>14</value>
@@ -18740,10 +18740,10 @@
 					<value>6</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>36</value>
+					<value>35</value>
 				</Data>
 				<Data name="nbDocks">
-					<value>42</value>
+					<value>41</value>
 				</Data>
 			</ExtendedData>
 		</Placemark>
@@ -18895,7 +18895,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1563961440000</value>
+					<value>1563957840000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -19267,10 +19267,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>14</value>
+					<value>15</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>19</value>
+					<value>18</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>33</value>
@@ -19507,13 +19507,13 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>17</value>
+					<value>18</value>
 				</Data>
 				<Data name="nbEmptyDocks">
 					<value>0</value>
 				</Data>
 				<Data name="nbDocks">
-					<value>17</value>
+					<value>18</value>
 				</Data>
 			</ExtendedData>
 		</Placemark>
@@ -20899,10 +20899,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>19</value>
+					<value>20</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>5</value>
+					<value>4</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>24</value>
@@ -21048,7 +21048,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1399638720000</value>
+					<value>1399635120000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -21639,7 +21639,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1333622160000</value>
+					<value>1333618560000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -22423,7 +22423,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1501548300000</value>
+					<value>1501544700000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -22844,7 +22844,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1380113580000</value>
+					<value>1380109980000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -22885,7 +22885,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1380117060000</value>
+					<value>1380113460000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -22926,7 +22926,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1380207540000</value>
+					<value>1380203940000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -22967,7 +22967,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1380298200000</value>
+					<value>1380294600000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -23008,7 +23008,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1380215460000</value>
+					<value>1380211860000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -23049,7 +23049,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1380798600000</value>
+					<value>1380795000000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -23090,7 +23090,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1380292500000</value>
+					<value>1380288900000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -23169,7 +23169,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1380535140000</value>
+					<value>1380531540000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -23210,7 +23210,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1380550140000</value>
+					<value>1380546540000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -23251,7 +23251,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1380555960000</value>
+					<value>1380552360000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -23292,7 +23292,7 @@
 					<value>false</value>
 				</Data>
 				<Data name="installDate">
-					<value>1380632640000</value>
+					<value>1380629040000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -23333,7 +23333,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1380902880000</value>
+					<value>1380899280000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -23374,7 +23374,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1380905280000</value>
+					<value>1380901680000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -23415,7 +23415,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1381138920000</value>
+					<value>1381135320000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -23456,7 +23456,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1381227840000</value>
+					<value>1381224240000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -23497,7 +23497,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1381231080000</value>
+					<value>1381227480000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -23538,7 +23538,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1381923900000</value>
+					<value>1381920300000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -23579,7 +23579,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1381935000000</value>
+					<value>1381931400000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -23620,7 +23620,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1381418580000</value>
+					<value>1381414980000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -23661,7 +23661,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1381483080000</value>
+					<value>1381479480000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -23702,7 +23702,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1381490700000</value>
+					<value>1381487100000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -23743,7 +23743,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1381248900000</value>
+					<value>1381245300000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -23784,7 +23784,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1381224300000</value>
+					<value>1381220700000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -23825,7 +23825,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1381406520000</value>
+					<value>1381402920000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -23866,7 +23866,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1381747380000</value>
+					<value>1381743780000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -23907,7 +23907,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1381760040000</value>
+					<value>1381756440000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -23948,7 +23948,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1381849920000</value>
+					<value>1381846320000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -23989,7 +23989,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1381937280000</value>
+					<value>1381933680000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -24030,7 +24030,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1381837620000</value>
+					<value>1381834020000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -24071,7 +24071,7 @@
 					<value>false</value>
 				</Data>
 				<Data name="installDate">
-					<value>1381839300000</value>
+					<value>1381835700000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -24112,7 +24112,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1382014020000</value>
+					<value>1382010420000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -24153,7 +24153,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1381930500000</value>
+					<value>1381926900000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -24194,7 +24194,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1381937820000</value>
+					<value>1381934220000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -24235,7 +24235,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1382014320000</value>
+					<value>1382010720000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -24276,7 +24276,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1382282160000</value>
+					<value>1382278560000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -24317,7 +24317,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1382114400000</value>
+					<value>1382110800000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -24358,7 +24358,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1382087940000</value>
+					<value>1382084340000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -24399,7 +24399,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1382350740000</value>
+					<value>1382347140000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -24440,7 +24440,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1382356440000</value>
+					<value>1382352840000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -24481,7 +24481,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1382352000000</value>
+					<value>1382348400000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -24522,7 +24522,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1382442120000</value>
+					<value>1382438520000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -24563,7 +24563,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1382445180000</value>
+					<value>1382441580000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -24604,7 +24604,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1381852140000</value>
+					<value>1381848540000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -24645,7 +24645,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1382543460000</value>
+					<value>1382539860000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -24686,7 +24686,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1382523600000</value>
+					<value>1382520000000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -24727,7 +24727,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1382614800000</value>
+					<value>1382611200000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -24768,7 +24768,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1382618160000</value>
+					<value>1382614560000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -24809,7 +24809,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1382625000000</value>
+					<value>1382621400000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -24891,7 +24891,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1382700660000</value>
+					<value>1382697060000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -24932,7 +24932,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1382708940000</value>
+					<value>1382705340000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -26206,10 +26206,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>4</value>
+					<value>5</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>18</value>
+					<value>17</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>22</value>
@@ -26736,7 +26736,7 @@
 					<value>1384453020000</value>
 				</Data>
 				<Data name="removalDate">
-					<value>1539849300000</value>
+					<value>1539845700000</value>
 				</Data>
 				<Data name="temporary">
 					<value>true</value>
@@ -27556,7 +27556,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1563356100000</value>
+					<value>1563352500000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -28663,7 +28663,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1650367920000</value>
+					<value>1650364320000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -29161,10 +29161,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>15</value>
+					<value>16</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>10</value>
+					<value>9</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>25</value>
@@ -29401,7 +29401,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1396445700000</value>
+					<value>1396442100000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -29442,7 +29442,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1396266120000</value>
+					<value>1396262520000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -29483,7 +29483,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1396269480000</value>
+					<value>1396265880000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -29524,7 +29524,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1396273920000</value>
+					<value>1396270320000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -29565,7 +29565,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1396276920000</value>
+					<value>1396273320000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -29606,7 +29606,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1406286540000</value>
+					<value>1406282940000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -29647,7 +29647,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1435317300000</value>
+					<value>1435313700000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -29688,7 +29688,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1439458800000</value>
+					<value>1439455200000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -30180,7 +30180,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1459428360000</value>
+					<value>1459424760000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -30385,16 +30385,16 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1464791580000</value>
+					<value>1464787980000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>17</value>
+					<value>18</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>10</value>
+					<value>9</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>27</value>
@@ -30426,7 +30426,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1464880080000</value>
+					<value>1464876480000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -30549,7 +30549,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1464869100000</value>
+					<value>1464865500000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -30590,7 +30590,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1464791460000</value>
+					<value>1464787860000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -30631,7 +30631,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1459414560000</value>
+					<value>1459410960000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -30672,7 +30672,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1467630000000</value>
+					<value>1467626400000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -30713,7 +30713,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1472727060000</value>
+					<value>1472723460000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -30754,7 +30754,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1466719200000</value>
+					<value>1466715600000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -30795,7 +30795,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1461757140000</value>
+					<value>1461753540000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -30836,7 +30836,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1467644400000</value>
+					<value>1467640800000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -30877,7 +30877,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1464946800000</value>
+					<value>1464943200000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -30918,7 +30918,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1469542560000</value>
+					<value>1469538960000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -30959,7 +30959,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1469008800000</value>
+					<value>1469005200000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -31000,7 +31000,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1467630720000</value>
+					<value>1467627120000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -31041,7 +31041,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1464873660000</value>
+					<value>1464870060000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -31082,7 +31082,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1462361280000</value>
+					<value>1462357680000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -31164,7 +31164,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1464952740000</value>
+					<value>1464949140000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -31205,7 +31205,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1563962340000</value>
+					<value>1563958740000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -31246,7 +31246,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1476363720000</value>
+					<value>1476360120000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -31369,7 +31369,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1500558480000</value>
+					<value>1500554880000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -31697,7 +31697,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1529452800000</value>
+					<value>1529449200000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -31814,7 +31814,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1539258300000</value>
+					<value>1539254700000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -31896,7 +31896,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1599756240000</value>
+					<value>1599752640000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -31975,7 +31975,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1600860000000</value>
+					<value>1600856400000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -32098,7 +32098,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1659796020000</value>
+					<value>1659792420000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -32215,7 +32215,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="installDate">
-					<value>1666047600000</value>
+					<value>1666044000000</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
