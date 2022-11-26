@@ -4404,26 +4404,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.17873226,51.49396755</coordinates>
-			</Point>
-			<name>Queen's Gate (Central), South Kensington</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>231</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.112753217,51.51501025</coordinates>
 			</Point>
 			<name>Carey Street, Holborn</name>
