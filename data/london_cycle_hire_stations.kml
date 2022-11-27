@@ -13141,6 +13141,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.212145939,51.45971528</coordinates>
+			</Point>
+			<name>Upper Richmond Road, Putney</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>705</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>true</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.083632928,51.50215353</coordinates>
 			</Point>
 			<name>Snowsfields, London Bridge</name>
