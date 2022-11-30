@@ -14321,6 +14321,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.129698963,51.50070305</coordinates>
+			</Point>
+			<name>Storey's Gate, Westminster</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>762</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.032566533,51.52059714</coordinates>
 			</Point>
 			<name>Mile End Park Leisure Centre, Mile End</name>
