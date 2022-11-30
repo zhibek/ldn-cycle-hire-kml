@@ -15911,6 +15911,9 @@
 				<Data name="installed">
 					<value>false</value>
 				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
 				<Data name="temporary">
 					<value>false</value>
 				</Data>
