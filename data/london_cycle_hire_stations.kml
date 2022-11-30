@@ -11926,7 +11926,7 @@
 			<Point>
 				<coordinates>-0.2020387,51.4835707</coordinates>
 			</Point>
-			<name>Coomer Place, West Kensington</name>
+			<name>Coomer Place, West Kensington_OLD</name>
 			<ExtendedData>
 				<Data name="id">
 					<value>639</value>
@@ -15892,6 +15892,23 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>0.0,0.0</coordinates>
+			</Point>
+			<name>Coomer Place, West Kensington</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>852</value>
+				</Data>
+				<Data name="installed">
 					<value>false</value>
 				</Data>
 				<Data name="temporary">
