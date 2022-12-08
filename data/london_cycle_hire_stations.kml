@@ -15884,6 +15884,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.078893,51.495598</coordinates>
+			</Point>
+			<name>Crimscott Street, Bermondsey</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>849</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.0915489,51.489102</coordinates>
 			</Point>
 			<name>Brandon Street, Walworth</name>
