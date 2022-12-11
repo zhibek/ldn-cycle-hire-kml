@@ -1064,26 +1064,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.086685542,51.51707521</coordinates>
-			</Point>
-			<name>Finsbury Circus, Liverpool Street</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>55</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.154701411,51.52058381</coordinates>
 			</Point>
 			<name>Paddington Street, Marylebone</name>
