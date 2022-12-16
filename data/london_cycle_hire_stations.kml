@@ -4824,26 +4824,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.116542278,51.5046364</coordinates>
-			</Point>
-			<name>Jubilee Gardens, South Bank</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>252</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.086379717,51.53404294</coordinates>
 			</Point>
 			<name>Shoreditch Park, Hoxton</name>
