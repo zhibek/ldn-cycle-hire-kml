@@ -2944,6 +2944,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.201554966,51.51213691</coordinates>
+			</Point>
+			<name>Chepstow Villas, Notting Hill</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>151</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.101536865,51.49217002</coordinates>
 			</Point>
 			<name>Hampton Street, Walworth</name>
