@@ -2984,6 +2984,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.11282408,51.50379168</coordinates>
+			</Point>
+			<name>Waterloo Station 3, Waterloo</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>154</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.191933711,51.49586666</coordinates>
 			</Point>
 			<name>Lexham Gardens, Kensington</name>
