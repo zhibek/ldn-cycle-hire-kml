@@ -6504,6 +6504,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.12602103,51.50810309</coordinates>
+			</Point>
+			<name>Craven Street, Strand</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>341</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.150181444,51.53692216</coordinates>
 			</Point>
 			<name>London Zoo Car Park, The Regent's Park</name>
