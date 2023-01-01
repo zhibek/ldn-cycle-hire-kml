@@ -6624,6 +6624,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.11342629,51.50391973</coordinates>
+			</Point>
+			<name>Waterloo Station 2, Waterloo</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>361</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.133952,51.536264</coordinates>
 			</Point>
 			<name>Royal College Street, Camden Town</name>
