@@ -3224,6 +3224,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.159237081,51.50185512</coordinates>
+			</Point>
+			<name>Seville Street, Knightsbridge</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>166</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.147624377,51.49395092</coordinates>
 			</Point>
 			<name>Eccleston Place, Victoria</name>
