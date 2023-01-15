@@ -11924,6 +11924,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.169821175,51.46663393</coordinates>
+			</Point>
+			<name>Falcon Road, Clapham Junction</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>638</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.148059277,51.47286577</coordinates>
 			</Point>
 			<name>Silverthorne Road, Battersea</name>
