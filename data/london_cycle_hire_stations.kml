@@ -4904,6 +4904,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.179592915,51.52557531</coordinates>
+			</Point>
+			<name>Clifton Road, Maida Vale</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>255</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.116764211,51.51362054</coordinates>
 			</Point>
 			<name>Houghton Street, Strand</name>
@@ -7270,6 +7290,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>383</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.192404,51.496481</coordinates>
+			</Point>
+			<name>Marloes Road, Kensington</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>384</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
