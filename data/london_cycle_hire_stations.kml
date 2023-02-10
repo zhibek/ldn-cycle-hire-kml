@@ -13664,6 +13664,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.20587627,51.47569809</coordinates>
+			</Point>
+			<name>Chesilton Road, Fulham</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>727</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.206240805,51.46199911</coordinates>
 			</Point>
 			<name>Putney Bridge Road, East Putney</name>
