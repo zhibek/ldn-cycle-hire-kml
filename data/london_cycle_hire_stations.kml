@@ -6404,26 +6404,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.120718759,51.51196803</coordinates>
-			</Point>
-			<name>Tavistock Street, Covent Garden</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>335</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.115533,51.504942</coordinates>
 			</Point>
 			<name>Concert Hall Approach 2, South Bank</name>
