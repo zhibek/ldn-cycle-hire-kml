@@ -6424,6 +6424,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.197524944,51.51108452</coordinates>
+			</Point>
+			<name>Pembridge Villas, Notting Hill</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>337</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.119643424,51.51175646</coordinates>
 			</Point>
 			<name>Wellington Street , Strand</name>
