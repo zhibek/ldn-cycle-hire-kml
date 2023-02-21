@@ -9564,6 +9564,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.155525,51.516204</coordinates>
+			</Point>
+			<name>Portman Square, Marylebone</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>514</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.211316,51.500088</coordinates>
 			</Point>
 			<name>Russell Gardens, Olympia</name>
