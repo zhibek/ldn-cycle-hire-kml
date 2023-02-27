@@ -2584,6 +2584,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.074754872,51.52364804</coordinates>
+			</Point>
+			<name>Bethnal Green Road, Shoreditch</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>132</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.191462381,51.50136494</coordinates>
 			</Point>
 			<name>Derry Street, Kensington</name>
