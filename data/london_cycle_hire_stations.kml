@@ -7184,6 +7184,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.179077626,51.49559291</coordinates>
+			</Point>
+			<name>Natural History Museum, South Kensington</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>378</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.200838199,51.51431171</coordinates>
 			</Point>
 			<name>Turquoise Island, Notting Hill</name>
