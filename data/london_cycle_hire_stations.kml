@@ -6024,6 +6024,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.153463612,51.52536703</coordinates>
+			</Point>
+			<name>The Tennis Courts, The Regent's Park</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>315</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.14296064,51.497998</coordinates>
 			</Point>
 			<name>Warwick Row, Westminster</name>
