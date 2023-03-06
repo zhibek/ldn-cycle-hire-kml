@@ -16031,7 +16031,21 @@
 				<Data name="installed">
 					<value>false</value>
 				</Data>
-				<Data name="locked">
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>0.0,0.0</coordinates>
+			</Point>
+			<name>Disraeli Road, Putney_old</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>854</value>
+				</Data>
+				<Data name="installed">
 					<value>false</value>
 				</Data>
 				<Data name="temporary">
