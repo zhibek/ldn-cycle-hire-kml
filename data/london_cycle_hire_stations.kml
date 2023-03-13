@@ -4064,26 +4064,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.158105512,51.49464523</coordinates>
-			</Point>
-			<name>Cadogan Place, Knightsbridge</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>211</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.199004026,51.50658458</coordinates>
 			</Point>
 			<name>Campden Hill Road, Notting Hill</name>
