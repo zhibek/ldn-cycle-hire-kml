@@ -624,26 +624,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.084439283,51.52469624</coordinates>
-			</Point>
-			<name>Leonard Circus , Shoreditch</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>32</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.07015,51.515231</coordinates>
 			</Point>
 			<name>Central House, Aldgate</name>
@@ -3970,26 +3950,6 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>206</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.153194766,51.50135267</coordinates>
-			</Point>
-			<name>Grosvenor Crescent, Belgravia</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>207</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
