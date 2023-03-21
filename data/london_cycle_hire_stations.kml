@@ -3286,16 +3286,13 @@
 			<Point>
 				<coordinates>-0.108068155,51.52784273</coordinates>
 			</Point>
-			<name>Hardwick Street, Clerkenwell</name>
+			<name>Hardwick Street, Clerkenwell_OLD</name>
 			<ExtendedData>
 				<Data name="id">
 					<value>170</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -15933,6 +15930,26 @@
 				</Data>
 				<Data name="installed">
 					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>0.0,0.0</coordinates>
+			</Point>
+			<name>Hardwick Street, Clerkenwell</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>856</value>
+				</Data>
+				<Data name="installed">
+					<value>false</value>
 				</Data>
 				<Data name="locked">
 					<value>false</value>
