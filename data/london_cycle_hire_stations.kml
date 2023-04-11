@@ -14624,26 +14624,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.167029,51.460333</coordinates>
-			</Point>
-			<name>Abyssinia Close, Clapham Junction</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>776</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.165297856693,51.4619230679</coordinates>
 			</Point>
 			<name>Limburg Road, Clapham Junction</name>
