@@ -1224,6 +1224,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.124749274,51.50946212</coordinates>
+			</Point>
+			<name>William IV Street, Strand</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>64</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.13518856,51.52522753</coordinates>
 			</Point>
 			<name>Gower Place , Euston</name>
@@ -2084,6 +2104,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.132102166,51.49812559</coordinates>
+			</Point>
+			<name>Abbey Orchard Street, Westminster</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>108</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.132328837,51.51563144</coordinates>
 			</Point>
 			<name>Soho Square , Soho</name>
@@ -2110,6 +2150,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>110</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.157275636,51.5100172</coordinates>
+			</Point>
+			<name>Park Lane , Hyde Park</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>111</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -2230,6 +2290,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>117</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.13547809,51.49582705</coordinates>
+			</Point>
+			<name>Rochester Row, Westminster</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>118</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -2924,6 +3004,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.11282408,51.50379168</coordinates>
+			</Point>
+			<name>Waterloo Station 3, Waterloo</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>154</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.191933711,51.49586666</coordinates>
 			</Point>
 			<name>Lexham Gardens, Kensington</name>
@@ -2990,6 +3090,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>158</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.131773845,51.50663341</coordinates>
+			</Point>
+			<name>Waterloo Place, St. James's</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>160</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -3310,6 +3430,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>176</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.140947636,51.49616092</coordinates>
+			</Point>
+			<name>Ashley Place, Victoria</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>177</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -3964,6 +4104,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.149569201,51.50274025</coordinates>
+			</Point>
+			<name>Wellington Arch, Hyde Park</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>213</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.130504336,51.52683806</coordinates>
 			</Point>
 			<name>Endsleigh Gardens, Euston</name>
@@ -4204,12 +4364,72 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.131961389,51.50844614</coordinates>
+			</Point>
+			<name>Charles II Street, West End</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>226</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.115480888,51.52891573</coordinates>
 			</Point>
 			<name>Great Percy Street, Clerkenwell</name>
 			<ExtendedData>
 				<Data name="id">
 					<value>227</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.134621209,51.50742485</coordinates>
+			</Point>
+			<name>St. James's Square, St. James's</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>228</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.123179697,51.50654321</coordinates>
+			</Point>
+			<name>Whitehall Place, Strand</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>229</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -4270,6 +4490,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>232</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.130699733,51.50777049</coordinates>
+			</Point>
+			<name>Pall Mall East, West End</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>233</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -5184,6 +5424,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.127575233,51.49580589</coordinates>
+			</Point>
+			<name>Smith Square, Westminster</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>281</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.118478757,51.51440928</coordinates>
 			</Point>
 			<name>Kingsway, Covent Garden</name>
@@ -5484,6 +5744,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.136928582,51.49398524</coordinates>
+			</Point>
+			<name>Vincent Square, Westminster</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>299</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.17306032,51.505014</coordinates>
 			</Point>
 			<name>Serpentine Car Park, Hyde Park</name>
@@ -5530,6 +5810,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>302</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.158456089,51.50295379</coordinates>
+			</Point>
+			<name>Albert Gate, Hyde Park</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>303</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -6204,6 +6504,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.12602103,51.50810309</coordinates>
+			</Point>
+			<name>Craven Street, Strand</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>341</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.150181444,51.53692216</coordinates>
 			</Point>
 			<name>London Zoo Car Park, The Regent's Park</name>
@@ -6404,6 +6724,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.123702,51.506767</coordinates>
+			</Point>
+			<name>Northumberland Avenue, Strand</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>354</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.13922146,51.461388</coordinates>
 			</Point>
 			<name>Clapham Common Station, Clapham Common</name>
@@ -6470,6 +6810,66 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>358</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.135440826,51.49782999</coordinates>
+			</Point>
+			<name>Butler Place, Westminster</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>359</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.138733562,51.49675303</coordinates>
+			</Point>
+			<name>Howick Place, Westminster</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>360</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.11342629,51.50391973</coordinates>
+			</Point>
+			<name>Waterloo Station 2, Waterloo</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>361</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -6690,6 +7090,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>373</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.11386436,51.50402794</coordinates>
+			</Point>
+			<name>Waterloo Station 1, Waterloo</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>374</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -9684,6 +10104,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.142844,51.506613</coordinates>
+			</Point>
+			<name>Green Park Station, Mayfair</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>541</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.033828,51.514115</coordinates>
 			</Point>
 			<name>Salmon Lane, Limehouse</name>
@@ -10410,6 +10850,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>581</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.12597218,51.49764</coordinates>
+			</Point>
+			<name>Abingdon Green, Westminster</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>583</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -11604,6 +12064,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.137424571,51.49886563</coordinates>
+			</Point>
+			<name>Buckingham Gate, Westminster</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>646</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.217515071,51.50035306</coordinates>
 			</Point>
 			<name>Richmond Way, Shepherd's Bush</name>
@@ -12090,6 +12570,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>671</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.1167474,51.502698</coordinates>
+			</Point>
+			<name>Chicheley Street, South Bank</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>672</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -13284,6 +13784,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.150817316,51.50542628</coordinates>
+			</Point>
+			<name>Park Lane, Mayfair</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>733</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.175407201,51.46230566</coordinates>
 			</Point>
 			<name>Plough Terrace, Clapham Junction</name>
@@ -13790,6 +14310,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>761</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.129698963,51.50070305</coordinates>
+			</Point>
+			<name>Storey's Gate, Westminster</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>762</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -14830,6 +15370,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>817</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.12382322,51.501513</coordinates>
+			</Point>
+			<name>Westminster Pier, Westminster</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>818</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
