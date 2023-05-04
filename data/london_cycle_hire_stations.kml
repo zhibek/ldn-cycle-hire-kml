@@ -724,26 +724,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.197245586,51.4973875</coordinates>
-			</Point>
-			<name>Abingdon Villas, Kensington</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>38</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.078130921,51.5263778</coordinates>
 			</Point>
 			<name>Shoreditch High Street, Shoreditch</name>
@@ -2090,26 +2070,6 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>107</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.132102166,51.49812559</coordinates>
-			</Point>
-			<name>Abbey Orchard Street, Westminster</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>108</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -10850,26 +10810,6 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>581</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.12597218,51.49764</coordinates>
-			</Point>
-			<name>Abingdon Green, Westminster</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>583</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
