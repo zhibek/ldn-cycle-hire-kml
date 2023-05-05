@@ -4084,26 +4084,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.149569201,51.50274025</coordinates>
-			</Point>
-			<name>Wellington Arch, Hyde Park</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>213</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.130504336,51.52683806</coordinates>
 			</Point>
 			<name>Endsleigh Gardens, Euston</name>
@@ -5770,26 +5750,6 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>302</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.158456089,51.50295379</coordinates>
-			</Point>
-			<name>Albert Gate, Hyde Park</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>303</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -10030,26 +9990,6 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>540</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.142844,51.506613</coordinates>
-			</Point>
-			<name>Green Park Station, Mayfair</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>541</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
