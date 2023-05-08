@@ -5424,6 +5424,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.127575233,51.49580589</coordinates>
+			</Point>
+			<name>Smith Square, Westminster</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>281</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.118478757,51.51440928</coordinates>
 			</Point>
 			<name>Kingsway, Covent Garden</name>
