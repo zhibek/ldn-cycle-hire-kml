@@ -14744,26 +14744,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.010510565,51.54094</coordinates>
-			</Point>
-			<name>Aquatic Centre, Queen Elizabeth Olympic Park</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>785</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.015717614,51.549369</coordinates>
 			</Point>
 			<name>Lee Valley VeloPark, Queen Elizabeth Olympic Park</name>
