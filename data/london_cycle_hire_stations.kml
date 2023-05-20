@@ -15444,26 +15444,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.11147178,51.479601</coordinates>
-			</Point>
-			<name>Cranmer Road, Stockwell</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>827</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.11258096,51.473874</coordinates>
 			</Point>
 			<name>Normandy Road, Stockwell</name>
