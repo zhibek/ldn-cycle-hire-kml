@@ -11024,6 +11024,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.2242237,51.506093</coordinates>
+			</Point>
+			<name>Westfield Library Corner, Shepherd's Bush</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>591</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.18377,51.5171</coordinates>
 			</Point>
 			<name>Bishop's Bridge Road East, Bayswater</name>
