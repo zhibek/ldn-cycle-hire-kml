@@ -9084,6 +9084,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.064094,51.513074</coordinates>
+			</Point>
+			<name>Christian Street, Whitechapel</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>489</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.065006,51.508622</coordinates>
 			</Point>
 			<name>Pennington Street, Wapping</name>
