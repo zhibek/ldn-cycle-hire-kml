@@ -2104,26 +2104,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.132328837,51.51563144</coordinates>
-			</Point>
-			<name>Soho Square , Soho</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>109</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.172528678,51.53304322</coordinates>
 			</Point>
 			<name>Wellington Road, St. John's Wood</name>
@@ -2490,26 +2470,6 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>128</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.137043852,51.5118973</coordinates>
-			</Point>
-			<name>Golden Square, Soho</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>129</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -3704,26 +3664,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.133201961,51.51251523</coordinates>
-			</Point>
-			<name>Wardour Street, Soho</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>192</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.100186337,51.50581776</coordinates>
 			</Point>
 			<name>Bankside Mix, Bankside</name>
@@ -4464,26 +4404,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.130699733,51.50777049</coordinates>
-			</Point>
-			<name>Pall Mall East, West End</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>233</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.106992706,51.53450449</coordinates>
 			</Point>
 			<name>Liverpool Road (N1 Centre), Angel</name>
@@ -4936,26 +4856,6 @@
 				</Data>
 				<Data name="locked">
 					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.135580879,51.5136846</coordinates>
-			</Point>
-			<name>Broadwick Street, Soho</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>260</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -7264,26 +7164,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.13121385,51.51310333</coordinates>
-			</Point>
-			<name>Frith Street, Soho</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>383</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.192404,51.496481</coordinates>
 			</Point>
 			<name>Marloes Road, Kensington</name>
@@ -7296,26 +7176,6 @@
 				</Data>
 				<Data name="locked">
 					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.130110822,51.51352755</coordinates>
-			</Point>
-			<name>Moor Street, Soho</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>386</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -7350,26 +7210,6 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>388</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.155757901,51.51013066</coordinates>
-			</Point>
-			<name>Upper Grosvenor Street, Mayfair</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>389</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -10110,26 +9950,6 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>540</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.142844,51.506613</coordinates>
-			</Point>
-			<name>Green Park Station, Mayfair</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>541</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -13830,26 +13650,6 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>732</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.150817316,51.50542628</coordinates>
-			</Point>
-			<name>Park Lane, Mayfair</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>733</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
