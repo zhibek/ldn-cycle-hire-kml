@@ -4464,6 +4464,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.130699733,51.50777049</coordinates>
+			</Point>
+			<name>Pall Mall East, West End</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>233</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.106992706,51.53450449</coordinates>
 			</Point>
 			<name>Liverpool Road (N1 Centre), Angel</name>
@@ -10090,6 +10110,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>540</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.142844,51.506613</coordinates>
+			</Point>
+			<name>Green Park Station, Mayfair</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>541</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
