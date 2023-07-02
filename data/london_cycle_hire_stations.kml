@@ -2504,6 +2504,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.137043852,51.5118973</coordinates>
+			</Point>
+			<name>Golden Square, Soho</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>129</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.075459482,51.50950627</coordinates>
 			</Point>
 			<name>Tower Gardens , Tower</name>
@@ -3670,6 +3690,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>191</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.133201961,51.51251523</coordinates>
+			</Point>
+			<name>Wardour Street, Soho</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>192</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -4870,6 +4910,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>259</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.135580879,51.5136846</coordinates>
+			</Point>
+			<name>Broadwick Street, Soho</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>260</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -7184,12 +7244,52 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.13121385,51.51310333</coordinates>
+			</Point>
+			<name>Frith Street, Soho</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>383</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.192404,51.496481</coordinates>
 			</Point>
 			<name>Marloes Road, Kensington</name>
 			<ExtendedData>
 				<Data name="id">
 					<value>384</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.130110822,51.51352755</coordinates>
+			</Point>
+			<name>Moor Street, Soho</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>386</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -13690,6 +13790,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>732</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.150817316,51.50542628</coordinates>
+			</Point>
+			<name>Park Lane, Mayfair</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>733</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
