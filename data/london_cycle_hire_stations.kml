@@ -15524,26 +15524,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.1429434,51.496863</coordinates>
-			</Point>
-			<name>Allington Street, Victoria</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>826</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.11258096,51.473874</coordinates>
 			</Point>
 			<name>Normandy Road, Stockwell</name>
