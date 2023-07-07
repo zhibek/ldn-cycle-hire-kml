@@ -3084,26 +3084,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.131773845,51.50663341</coordinates>
-			</Point>
-			<name>Waterloo Place, St. James's</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>160</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.141334487,51.49234577</coordinates>
 			</Point>
 			<name>Guildhouse Street, Victoria</name>
@@ -14896,26 +14876,6 @@
 				</Data>
 				<Data name="locked">
 					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.10454093,51.505461</coordinates>
-			</Point>
-			<name>Blackfriars Road, Southwark</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>792</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
