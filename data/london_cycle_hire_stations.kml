@@ -4384,6 +4384,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.123179697,51.50654321</coordinates>
+			</Point>
+			<name>Whitehall Place, Strand</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>229</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.103137426,51.50669284</coordinates>
 			</Point>
 			<name>Poured Lines, Bankside</name>
@@ -4430,6 +4450,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>232</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.130699733,51.50777049</coordinates>
+			</Point>
+			<name>Pall Mall East, West End</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>233</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -5810,6 +5850,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>308</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.119047563,51.50963123</coordinates>
+			</Point>
+			<name>Embankment (Savoy), Strand</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>309</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -10044,6 +10104,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.142844,51.506613</coordinates>
+			</Point>
+			<name>Green Park Station, Mayfair</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>541</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.033828,51.514115</coordinates>
 			</Point>
 			<name>Salmon Lane, Limehouse</name>
@@ -10450,6 +10530,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>563</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.117619,51.509943</coordinates>
+			</Point>
+			<name>Somerset House, Strand</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>564</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
