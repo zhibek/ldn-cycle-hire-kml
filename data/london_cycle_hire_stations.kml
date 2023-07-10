@@ -14864,6 +14864,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.10454093,51.505461</coordinates>
+			</Point>
+			<name>Blackfriars Road, Southwark</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>792</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.11955857,51.528279</coordinates>
 			</Point>
 			<name>Cromer Street, Bloomsbury</name>
