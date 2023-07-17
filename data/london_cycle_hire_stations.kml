@@ -9466,7 +9466,7 @@
 			<Point>
 				<coordinates>-0.090075,51.517842</coordinates>
 			</Point>
-			<name>Fore Street, Guildhall</name>
+			<name>Fore Street Avenue, Guildhall</name>
 			<ExtendedData>
 				<Data name="id">
 					<value>509</value>
@@ -15686,7 +15686,7 @@
 			<Point>
 				<coordinates>-0.0914017,51.518093</coordinates>
 			</Point>
-			<name>Fore Street Avenue, Guildhall</name>
+			<name>Fore Street, Guildhall</name>
 			<ExtendedData>
 				<Data name="id">
 					<value>838</value>
