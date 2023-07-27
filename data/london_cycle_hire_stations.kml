@@ -15464,6 +15464,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.1429434,51.496863</coordinates>
+			</Point>
+			<name>Allington Street, Victoria</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>826</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.11147178,51.479601</coordinates>
 			</Point>
 			<name>Cranmer Road, Stockwell</name>
