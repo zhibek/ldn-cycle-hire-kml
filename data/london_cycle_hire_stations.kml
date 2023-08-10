@@ -6064,6 +6064,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.139956043,51.49357351</coordinates>
+			</Point>
+			<name>Queen Mother Sports Centre, Victoria</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>320</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.081608045,51.49785559</coordinates>
 			</Point>
 			<name>Bermondsey Street, Bermondsey</name>
