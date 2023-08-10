@@ -13884,26 +13884,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.185273723,51.48176572</coordinates>
-			</Point>
-			<name>Hortensia Road, West Brompton</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>739</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.214594781,51.51092871</coordinates>
 			</Point>
 			<name>Sirdar Road, Avondale</name>
