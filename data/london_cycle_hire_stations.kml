@@ -4264,26 +4264,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.196422,51.50935342</coordinates>
-			</Point>
-			<name>Notting Hill Gate Station, Notting Hill</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>225</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.131961389,51.50844614</coordinates>
 			</Point>
 			<name>Charles II Street, West End</name>
@@ -6336,26 +6316,6 @@
 				</Data>
 				<Data name="locked">
 					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.197524944,51.51108452</coordinates>
-			</Point>
-			<name>Pembridge Villas, Notting Hill</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>337</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -14084,26 +14044,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.201005397,51.51787005</coordinates>
-			</Point>
-			<name>Westbourne Park Road, Portobello</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>758</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.165668686,51.52456169</coordinates>
 			</Point>
 			<name>Broadley Terrace, Marylebone</name>
@@ -14944,52 +14884,12 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.20080483,51.520509</coordinates>
-			</Point>
-			<name>The Metropolitan, Portobello</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>805</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.124807385707,51.5372405623</coordinates>
 			</Point>
 			<name>Handyside Street, King's Cross</name>
 			<ExtendedData>
 				<Data name="id">
 					<value>806</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.208888173,51.5212</coordinates>
-			</Point>
-			<name>Bevington Road West, North Kensington</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>807</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
