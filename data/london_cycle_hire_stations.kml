@@ -7124,6 +7124,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.200838199,51.51431171</coordinates>
+			</Point>
+			<name>Turquoise Island, Notting Hill</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>379</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.150666888,51.50686435</coordinates>
 			</Point>
 			<name>Stanhope Gate, Mayfair</name>
@@ -11924,6 +11944,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.204764421,51.5190427</coordinates>
+			</Point>
+			<name>All Saints' Road, Portobello</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>643</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.223852256,51.48373225</coordinates>
 			</Point>
 			<name>Rainville Road, Hammersmith</name>
@@ -12230,6 +12270,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>660</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.202608612,51.51632095</coordinates>
+			</Point>
+			<name>All Saints Church, Portobello</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>661</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -13824,6 +13884,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.208565479,51.51510818</coordinates>
+			</Point>
+			<name>Blenheim Crescent, Ladbroke Grove</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>742</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.212607684,51.46079243</coordinates>
 			</Point>
 			<name>Oxford Road, Putney</name>
@@ -14984,12 +15064,52 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.20080483,51.520509</coordinates>
+			</Point>
+			<name>The Metropolitan, Portobello</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>805</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.124807385707,51.5372405623</coordinates>
 			</Point>
 			<name>Handyside Street, King's Cross</name>
 			<ExtendedData>
 				<Data name="id">
 					<value>806</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.208888173,51.5212</coordinates>
+			</Point>
+			<name>Bevington Road West, North Kensington</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>807</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
