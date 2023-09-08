@@ -6764,6 +6764,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.135440826,51.49782999</coordinates>
+			</Point>
+			<name>Butler Place, Westminster</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>359</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.138733562,51.49675303</coordinates>
 			</Point>
 			<name>Howick Place, Westminster</name>
