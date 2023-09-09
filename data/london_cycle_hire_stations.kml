@@ -4144,26 +4144,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.082422399,51.51615461</coordinates>
-			</Point>
-			<name>Wormwood Street, Liverpool Street</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>217</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.170194408,51.48971651</coordinates>
 			</Point>
 			<name>St. Luke's Church, Chelsea</name>
@@ -7990,6 +7970,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>435</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.11655,51.51824</coordinates>
+			</Point>
+			<name>Red Lion Street, Holborn</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>436</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
