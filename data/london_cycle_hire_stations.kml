@@ -5704,6 +5704,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.136928582,51.49398524</coordinates>
+			</Point>
+			<name>Vincent Square, Westminster</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>299</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.17306032,51.505014</coordinates>
 			</Point>
 			<name>Serpentine Car Park, Hyde Park</name>
