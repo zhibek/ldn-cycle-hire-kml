@@ -5344,6 +5344,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.162418,51.490083</coordinates>
+			</Point>
+			<name>Royal Avenue 2, Chelsea</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>280</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.127575233,51.49580589</coordinates>
 			</Point>
 			<name>Smith Square, Westminster</name>
