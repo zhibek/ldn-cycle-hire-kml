@@ -4324,6 +4324,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.115480888,51.52891573</coordinates>
+			</Point>
+			<name>Great Percy Street, Clerkenwell</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>227</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.134621209,51.50742485</coordinates>
 			</Point>
 			<name>St. James's Square, St. James's</name>
