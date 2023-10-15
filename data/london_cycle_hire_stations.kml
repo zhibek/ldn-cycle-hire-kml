@@ -14504,6 +14504,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.122831913,51.47250956</coordinates>
+			</Point>
+			<name>Binfield Road, Stockwell</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>772</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.107349,51.511891</coordinates>
 			</Point>
 			<name>Tallis Street, Temple</name>
