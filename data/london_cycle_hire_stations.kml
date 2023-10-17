@@ -3344,23 +3344,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.1150573,51.512582</coordinates>
-			</Point>
-			<name>Strand, Strand_OLD</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>174</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.079608554,51.521668</coordinates>
 			</Point>
 			<name>Worship Street, Shoreditch</name>
@@ -15901,7 +15884,7 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>0.0,0.0</coordinates>
+				<coordinates>-0.11505729999998948,51.512582</coordinates>
 			</Point>
 			<name>Strand, Strand</name>
 			<ExtendedData>
