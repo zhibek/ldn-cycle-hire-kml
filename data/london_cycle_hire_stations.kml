@@ -15916,25 +15916,5 @@
 				</Data>
 			</ExtendedData>
 		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>0.0,0.0</coordinates>
-			</Point>
-			<name>Pop Up Dock 2</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>858</value>
-				</Data>
-				<Data name="installed">
-					<value>false</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
 	</Document>
 </kml>
