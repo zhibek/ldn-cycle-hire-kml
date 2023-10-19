@@ -3804,6 +3804,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.066078037,51.51492456</coordinates>
+			</Point>
+			<name>LMU Commercial Road, Whitechapel</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>200</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.161113413,51.5225965</coordinates>
 			</Point>
 			<name>Dorset Square, Marylebone</name>
