@@ -7784,6 +7784,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.15393398,51.49456127</coordinates>
+			</Point>
+			<name>Eaton Square (South), Belgravia</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>423</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>true</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.149186,51.490491</coordinates>
 			</Point>
 			<name>Ebury Bridge, Pimlico</name>
@@ -15892,7 +15912,7 @@
 					<value>857</value>
 				</Data>
 				<Data name="installed">
-					<value>false</value>
+					<value>true</value>
 				</Data>
 				<Data name="locked">
 					<value>false</value>
