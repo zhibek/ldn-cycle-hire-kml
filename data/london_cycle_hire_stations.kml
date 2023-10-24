@@ -12804,26 +12804,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.222456468,51.48814438</coordinates>
-			</Point>
-			<name>Beryl Road, Hammersmith</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>686</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.061698585,51.4954</coordinates>
 			</Point>
 			<name>Clements Road, Bermondsey</name>
