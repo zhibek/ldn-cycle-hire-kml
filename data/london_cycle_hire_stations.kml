@@ -6824,6 +6824,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.171185284853,51.5291212008901</coordinates>
+			</Point>
+			<name>Lord's, St. John's Wood</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>363</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.13214036,51.519572</coordinates>
 			</Point>
 			<name>Store Street, Bloomsbury</name>
@@ -12795,7 +12815,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>false</value>
+					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
