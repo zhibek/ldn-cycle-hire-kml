@@ -4735,7 +4735,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>false</value>
+					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -12036,6 +12036,26 @@
 				</Data>
 				<Data name="locked">
 					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.100292412,51.50173215</coordinates>
+			</Point>
+			<name>Great Suffolk Street, The Borough</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>645</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
