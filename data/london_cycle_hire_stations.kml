@@ -1984,6 +1984,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.192538767,51.50472376</coordinates>
+			</Point>
+			<name>Vicarage Gate, Kensington</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>103</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.077121322,51.51159481</coordinates>
 			</Point>
 			<name>Crosswall, Tower</name>
