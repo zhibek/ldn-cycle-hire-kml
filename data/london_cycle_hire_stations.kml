@@ -1535,7 +1535,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>false</value>
+					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -2444,46 +2444,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.096496865,51.51782144</coordinates>
-			</Point>
-			<name>Museum of London, Barbican</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>126</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.09388536,51.51700801</coordinates>
-			</Point>
-			<name>Wood Street, Guildhall</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>127</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.185296516,51.49536226</coordinates>
 			</Point>
 			<name>Emperor's Gate, South Kensington</name>
@@ -2636,26 +2596,6 @@
 				</Data>
 				<Data name="locked">
 					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.097441687,51.51196176</coordinates>
-			</Point>
-			<name>Queen Victoria Street, St. Paul's</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>136</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -7890,26 +7830,6 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>426</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.09294031,51.51397065</coordinates>
-			</Point>
-			<name>Cheapside, Bank</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>427</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -15804,26 +15724,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.10832249,51.510981</coordinates>
-			</Point>
-			<name>Temple Gardens, Temple</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>842</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.049150215,51.498439</coordinates>
 			</Point>
 			<name>Canada Water Station, Rotherhithe</name>
@@ -15970,26 +15870,6 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>852</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.11505729999998948,51.512582</coordinates>
-			</Point>
-			<name>Strand, Strand</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>857</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
