@@ -535,7 +535,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>false</value>
+					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -935,7 +935,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>false</value>
+					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -1375,7 +1375,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>false</value>
+					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>true</value>
@@ -1575,7 +1575,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>false</value>
+					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -2290,26 +2290,6 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>119</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.093080779,51.51573534</coordinates>
-			</Point>
-			<name>The Guildhall, Guildhall</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>120</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -4795,7 +4775,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>false</value>
+					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -10295,7 +10275,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>false</value>
+					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -10435,7 +10415,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>false</value>
+					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -12235,7 +12215,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>false</value>
+					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
