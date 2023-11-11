@@ -2284,6 +2284,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.093080779,51.51573534</coordinates>
+			</Point>
+			<name>The Guildhall, Guildhall</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>120</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.156166631,51.51891348</coordinates>
 			</Point>
 			<name>Baker Street, Marylebone</name>
@@ -2370,6 +2390,46 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>125</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.096496865,51.51782144</coordinates>
+			</Point>
+			<name>Museum of London, Barbican</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>126</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.09388536,51.51700801</coordinates>
+			</Point>
+			<name>Wood Street, Guildhall</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>127</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -15630,6 +15690,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>841</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.10832249,51.510981</coordinates>
+			</Point>
+			<name>Temple Gardens, Temple</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>842</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
