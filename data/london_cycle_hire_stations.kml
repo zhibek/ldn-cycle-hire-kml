@@ -524,26 +524,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.107927706,51.51382102</coordinates>
-			</Point>
-			<name>Bouverie Street, Temple</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>27</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.143613641,51.52351808</coordinates>
 			</Point>
 			<name>Bolsover Street, Fitzrovia</name>
@@ -916,26 +896,6 @@
 				</Data>
 				<Data name="locked">
 					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.099141408,51.51248445</coordinates>
-			</Point>
-			<name>Godliman Street, St. Paul's</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>48</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -1364,26 +1324,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.098850915,51.5154186</coordinates>
-			</Point>
-			<name>Newgate Street , St. Paul's</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>71</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>true</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.108340165,51.52352001</coordinates>
 			</Point>
 			<name>Farringdon Lane, Clerkenwell</name>
@@ -1556,26 +1496,6 @@
 				</Data>
 				<Data name="locked">
 					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.111257,51.514274</coordinates>
-			</Point>
-			<name>Chancery Lane, Holborn</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>82</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -4756,26 +4676,6 @@
 				</Data>
 				<Data name="locked">
 					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.116764211,51.51362054</coordinates>
-			</Point>
-			<name>Houghton Street, Strand</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>256</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -10264,26 +10164,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.0985,51.51601</coordinates>
-			</Point>
-			<name>King Edward Street, St Pauls</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>557</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.127554,51.493978</coordinates>
 			</Point>
 			<name>Page Street, Westminster</name>
@@ -10396,26 +10276,6 @@
 				</Data>
 				<Data name="locked">
 					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.117619,51.509943</coordinates>
-			</Point>
-			<name>Somerset House, Strand</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>564</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -12196,26 +12056,6 @@
 				</Data>
 				<Data name="locked">
 					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.10307894,51.511934</coordinates>
-			</Point>
-			<name>Blackfriars Station, St. Paul's</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>659</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
