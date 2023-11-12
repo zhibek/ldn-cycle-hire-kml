@@ -324,6 +324,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.109006325,51.5216612</coordinates>
+			</Point>
+			<name>Hatton Wall, Holborn</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>17</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.12221963,51.51477076</coordinates>
 			</Point>
 			<name>Drury Lane, Covent Garden</name>
@@ -10130,6 +10150,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>545</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.107987,51.517428</coordinates>
+			</Point>
+			<name>New Fetter Lane, Holborn</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>546</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
