@@ -6024,6 +6024,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.138846453,51.51004801</coordinates>
+			</Point>
+			<name>Sackville Street, Mayfair</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>318</value>
+				</Data>
+				<Data name="installed">
+					<value>false</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.088542771,51.52702563</coordinates>
 			</Point>
 			<name>Baldwin Street, St. Luke's</name>
