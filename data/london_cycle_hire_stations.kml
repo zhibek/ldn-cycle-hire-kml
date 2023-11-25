@@ -6624,26 +6624,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.123702,51.506767</coordinates>
-			</Point>
-			<name>Northumberland Avenue, Strand</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>354</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.13922146,51.461388</coordinates>
 			</Point>
 			<name>Clapham Common Station, Clapham Common</name>
