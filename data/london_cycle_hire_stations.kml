@@ -1524,26 +1524,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.11385596,51.511726</coordinates>
-			</Point>
-			<name>Arundel Street, Temple</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>79</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.102091246,51.50069361</coordinates>
 			</Point>
 			<name>Webber Street , Southwark</name>
