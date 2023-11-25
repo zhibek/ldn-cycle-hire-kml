@@ -5024,26 +5024,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.180246101,51.50102668</coordinates>
-			</Point>
-			<name>Queen's Gate (North), Kensington</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>266</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.132224622,51.49206037</coordinates>
 			</Point>
 			<name>Regency Street, Westminster</name>
