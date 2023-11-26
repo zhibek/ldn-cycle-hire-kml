@@ -1524,6 +1524,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.11385596,51.511726</coordinates>
+			</Point>
+			<name>Arundel Street, Temple</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>79</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.102091246,51.50069361</coordinates>
 			</Point>
 			<name>Webber Street , Southwark</name>
@@ -5004,6 +5024,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.180246101,51.50102668</coordinates>
+			</Point>
+			<name>Queen's Gate (North), Kensington</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>266</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.132224622,51.49206037</coordinates>
 			</Point>
 			<name>Regency Street, Westminster</name>
@@ -6610,6 +6650,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>353</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.123702,51.506767</coordinates>
+			</Point>
+			<name>Northumberland Avenue, Strand</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>354</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
