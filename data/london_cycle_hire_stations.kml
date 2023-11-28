@@ -724,6 +724,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.197245586,51.4973875</coordinates>
+			</Point>
+			<name>Abingdon Villas, Kensington</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>38</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.078130921,51.5263778</coordinates>
 			</Point>
 			<name>Shoreditch High Street, Shoreditch</name>
