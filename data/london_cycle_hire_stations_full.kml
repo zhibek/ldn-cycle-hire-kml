@@ -24,7 +24,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278947280000</value>
@@ -65,7 +65,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278585780000</value>
@@ -74,10 +74,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>14</value>
+					<value>13</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>23</value>
+					<value>24</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>37</value>
@@ -106,7 +106,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278240360000</value>
@@ -147,7 +147,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278241080000</value>
@@ -188,7 +188,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278241440000</value>
@@ -229,7 +229,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278241680000</value>
@@ -270,7 +270,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278241800000</value>
@@ -311,7 +311,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1540984560000</value>
@@ -352,7 +352,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278242340000</value>
@@ -393,7 +393,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278242460000</value>
@@ -434,7 +434,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278340440000</value>
@@ -443,10 +443,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>5</value>
+					<value>6</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>19</value>
+					<value>18</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>24</value>
@@ -475,7 +475,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278340620000</value>
@@ -516,7 +516,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278340800000</value>
@@ -557,7 +557,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278341040000</value>
@@ -598,7 +598,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278341220000</value>
@@ -639,7 +639,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278341400000</value>
@@ -680,7 +680,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278423720000</value>
@@ -721,7 +721,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278426300000</value>
@@ -762,7 +762,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278426720000</value>
@@ -771,10 +771,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>16</value>
+					<value>19</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>14</value>
+					<value>11</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>30</value>
@@ -803,7 +803,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1544659200000</value>
@@ -844,7 +844,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278427740000</value>
@@ -853,10 +853,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>12</value>
+					<value>13</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>14</value>
+					<value>13</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>26</value>
@@ -885,7 +885,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278428880000</value>
@@ -926,7 +926,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278429300000</value>
@@ -967,7 +967,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278430140000</value>
@@ -1008,7 +1008,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278433200000</value>
@@ -1049,7 +1049,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278434160000</value>
@@ -1090,7 +1090,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278500160000</value>
@@ -1131,7 +1131,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278500460000</value>
@@ -1172,7 +1172,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278501180000</value>
@@ -1213,7 +1213,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278501420000</value>
@@ -1295,7 +1295,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278506700000</value>
@@ -1336,7 +1336,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278506940000</value>
@@ -1377,7 +1377,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278507060000</value>
@@ -1418,7 +1418,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278519900000</value>
@@ -1459,7 +1459,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278520020000</value>
@@ -1500,7 +1500,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278584880000</value>
@@ -1541,7 +1541,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278601740000</value>
@@ -1550,10 +1550,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>7</value>
+					<value>6</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>33</value>
+					<value>34</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>41</value>
@@ -1582,7 +1582,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278601980000</value>
@@ -1623,7 +1623,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278602280000</value>
@@ -1664,7 +1664,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278602700000</value>
@@ -1705,7 +1705,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278687720000</value>
@@ -1746,7 +1746,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278687900000</value>
@@ -1787,7 +1787,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278691320000</value>
@@ -1828,7 +1828,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278691800000</value>
@@ -1869,7 +1869,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278749160000</value>
@@ -1910,7 +1910,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278749460000</value>
@@ -1992,7 +1992,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278750240000</value>
@@ -2001,10 +2001,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>16</value>
+					<value>17</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>10</value>
+					<value>9</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>27</value>
@@ -2033,7 +2033,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278750540000</value>
@@ -2074,7 +2074,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278750840000</value>
@@ -2115,7 +2115,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278752580000</value>
@@ -2156,7 +2156,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278766740000</value>
@@ -2197,7 +2197,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278766980000</value>
@@ -2238,7 +2238,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278767220000</value>
@@ -2279,7 +2279,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278767460000</value>
@@ -2320,7 +2320,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278767700000</value>
@@ -2361,7 +2361,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278769140000</value>
@@ -2402,7 +2402,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278773820000</value>
@@ -2443,7 +2443,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278773940000</value>
@@ -2484,7 +2484,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278774120000</value>
@@ -2525,7 +2525,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278774300000</value>
@@ -2566,7 +2566,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278840660000</value>
@@ -2607,7 +2607,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278845280000</value>
@@ -2648,7 +2648,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278847440000</value>
@@ -2689,7 +2689,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278857040000</value>
@@ -2730,7 +2730,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278861540000</value>
@@ -2771,7 +2771,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278863340000</value>
@@ -2853,7 +2853,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1276948860000</value>
@@ -2935,7 +2935,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278941160000</value>
@@ -2944,10 +2944,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>10</value>
+					<value>9</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>7</value>
+					<value>8</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>17</value>
@@ -2976,7 +2976,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278945180000</value>
@@ -3017,7 +3017,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278946560000</value>
@@ -3058,7 +3058,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1278946860000</value>
@@ -3140,7 +3140,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1509018360000</value>
@@ -3222,7 +3222,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279012980000</value>
@@ -3263,7 +3263,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279015680000</value>
@@ -3304,7 +3304,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279015800000</value>
@@ -3386,7 +3386,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279026060000</value>
@@ -3427,7 +3427,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279027140000</value>
@@ -3468,7 +3468,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279028280000</value>
@@ -3550,7 +3550,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279030020000</value>
@@ -3591,7 +3591,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279036740000</value>
@@ -3600,10 +3600,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>16</value>
+					<value>17</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>4</value>
+					<value>3</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>20</value>
@@ -3632,7 +3632,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279037040000</value>
@@ -3673,7 +3673,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279037760000</value>
@@ -3682,7 +3682,7 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>27</value>
+					<value>28</value>
 				</Data>
 				<Data name="nbEmptyDocks">
 					<value>9</value>
@@ -3714,7 +3714,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279038420000</value>
@@ -3796,7 +3796,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279096980000</value>
@@ -3837,7 +3837,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279097580000</value>
@@ -3878,7 +3878,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279099080000</value>
@@ -3919,7 +3919,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279099680000</value>
@@ -3960,7 +3960,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279099860000</value>
@@ -4001,7 +4001,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279102680000</value>
@@ -4042,7 +4042,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279102860000</value>
@@ -4124,7 +4124,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279103760000</value>
@@ -4133,10 +4133,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>25</value>
+					<value>26</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>9</value>
+					<value>8</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>34</value>
@@ -4165,7 +4165,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279105320000</value>
@@ -4206,7 +4206,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279106880000</value>
@@ -4329,7 +4329,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279108320000</value>
@@ -4370,7 +4370,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279108920000</value>
@@ -4411,7 +4411,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279109160000</value>
@@ -4423,7 +4423,7 @@
 					<value>12</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>16</value>
+					<value>15</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>28</value>
@@ -4452,7 +4452,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279116600000</value>
@@ -4493,7 +4493,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279119900000</value>
@@ -4534,7 +4534,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279120680000</value>
@@ -4575,7 +4575,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279122360000</value>
@@ -4616,7 +4616,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279124220000</value>
@@ -4657,7 +4657,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279124520000</value>
@@ -4698,7 +4698,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279124760000</value>
@@ -4739,7 +4739,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279187040000</value>
@@ -4780,7 +4780,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279189200000</value>
@@ -4821,7 +4821,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279190040000</value>
@@ -4830,10 +4830,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>10</value>
+					<value>9</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>13</value>
+					<value>14</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>23</value>
@@ -4862,7 +4862,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279191300000</value>
@@ -4903,7 +4903,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279191540000</value>
@@ -4944,7 +4944,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279192200000</value>
@@ -4985,7 +4985,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279193340000</value>
@@ -4997,7 +4997,7 @@
 					<value>36</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>16</value>
+					<value>15</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>52</value>
@@ -5026,7 +5026,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279193520000</value>
@@ -5067,7 +5067,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279194060000</value>
@@ -5108,7 +5108,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279198500000</value>
@@ -5149,7 +5149,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279198800000</value>
@@ -5190,7 +5190,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279199280000</value>
@@ -5231,7 +5231,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279199520000</value>
@@ -5272,7 +5272,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279200240000</value>
@@ -5313,7 +5313,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279200900000</value>
@@ -5354,7 +5354,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279201080000</value>
@@ -5395,7 +5395,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279201200000</value>
@@ -5436,7 +5436,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279205220000</value>
@@ -5477,7 +5477,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279205460000</value>
@@ -5518,7 +5518,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279205580000</value>
@@ -5559,7 +5559,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279210980000</value>
@@ -5600,7 +5600,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279211220000</value>
@@ -5609,10 +5609,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>15</value>
+					<value>16</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>9</value>
+					<value>8</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>24</value>
@@ -5641,7 +5641,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279211400000</value>
@@ -5682,7 +5682,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279211580000</value>
@@ -5691,10 +5691,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>6</value>
+					<value>5</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>40</value>
+					<value>41</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>47</value>
@@ -5723,7 +5723,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279212180000</value>
@@ -5764,7 +5764,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279212360000</value>
@@ -5805,7 +5805,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279214760000</value>
@@ -5846,7 +5846,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -5884,7 +5884,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279215360000</value>
@@ -5925,7 +5925,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279215540000</value>
@@ -5966,7 +5966,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279215720000</value>
@@ -5975,10 +5975,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>10</value>
+					<value>11</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>16</value>
+					<value>15</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>26</value>
@@ -6007,7 +6007,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279215900000</value>
@@ -6048,7 +6048,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279216080000</value>
@@ -6089,7 +6089,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -6127,7 +6127,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279272660000</value>
@@ -6168,7 +6168,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279273080000</value>
@@ -6209,7 +6209,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279273200000</value>
@@ -6218,7 +6218,7 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>17</value>
+					<value>18</value>
 				</Data>
 				<Data name="nbEmptyDocks">
 					<value>19</value>
@@ -6250,7 +6250,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279273320000</value>
@@ -6291,7 +6291,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279274280000</value>
@@ -6332,7 +6332,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279286940000</value>
@@ -6373,7 +6373,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279287120000</value>
@@ -6414,7 +6414,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279287300000</value>
@@ -6455,7 +6455,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279287600000</value>
@@ -6496,7 +6496,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279287960000</value>
@@ -6537,7 +6537,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279288140000</value>
@@ -6578,7 +6578,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -6616,7 +6616,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279289400000</value>
@@ -6657,7 +6657,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279289760000</value>
@@ -6698,7 +6698,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279290180000</value>
@@ -6739,7 +6739,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279291200000</value>
@@ -6780,7 +6780,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279291500000</value>
@@ -6821,7 +6821,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279292700000</value>
@@ -6862,7 +6862,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1529674980000</value>
@@ -6903,7 +6903,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279297560000</value>
@@ -6944,7 +6944,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279297740000</value>
@@ -6985,7 +6985,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279297920000</value>
@@ -7026,7 +7026,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279298460000</value>
@@ -7067,7 +7067,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279363140000</value>
@@ -7108,7 +7108,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279364160000</value>
@@ -7149,7 +7149,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279364280000</value>
@@ -7190,7 +7190,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279365360000</value>
@@ -7199,10 +7199,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>13</value>
+					<value>14</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>1</value>
+					<value>0</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>14</value>
@@ -7231,7 +7231,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279365480000</value>
@@ -7240,10 +7240,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>15</value>
+					<value>14</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>1</value>
+					<value>2</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>16</value>
@@ -7272,7 +7272,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279365720000</value>
@@ -7313,7 +7313,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279376760000</value>
@@ -7354,7 +7354,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279377180000</value>
@@ -7395,7 +7395,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279381080000</value>
@@ -7436,7 +7436,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279383120000</value>
@@ -7477,7 +7477,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279383300000</value>
@@ -7518,7 +7518,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279392479356</value>
@@ -7559,7 +7559,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279392479395</value>
@@ -7641,7 +7641,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279392479471</value>
@@ -7682,7 +7682,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279392479520</value>
@@ -7723,7 +7723,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279441800000</value>
@@ -7764,7 +7764,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279441920000</value>
@@ -7805,7 +7805,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279444080000</value>
@@ -7846,7 +7846,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279444320000</value>
@@ -7887,7 +7887,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279445580000</value>
@@ -7896,10 +7896,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>0</value>
+					<value>1</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>14</value>
+					<value>13</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>15</value>
@@ -7928,7 +7928,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279466640000</value>
@@ -7969,7 +7969,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279471380000</value>
@@ -8010,7 +8010,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279558140000</value>
@@ -8092,7 +8092,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279529160000</value>
@@ -8174,7 +8174,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279535820000</value>
@@ -8215,7 +8215,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279536840000</value>
@@ -8256,7 +8256,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279537020000</value>
@@ -8265,10 +8265,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>7</value>
+					<value>6</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>29</value>
+					<value>30</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>36</value>
@@ -8338,7 +8338,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279537380000</value>
@@ -8379,7 +8379,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279537920000</value>
@@ -8420,7 +8420,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279538040000</value>
@@ -8461,7 +8461,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279543740000</value>
@@ -8502,7 +8502,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279545900000</value>
@@ -8511,10 +8511,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>21</value>
+					<value>22</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>7</value>
+					<value>6</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>29</value>
@@ -8543,7 +8543,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279546320000</value>
@@ -8584,7 +8584,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279552200000</value>
@@ -8625,7 +8625,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279614120000</value>
@@ -8666,7 +8666,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279614420000</value>
@@ -8707,7 +8707,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279615020000</value>
@@ -8748,7 +8748,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279616280000</value>
@@ -8789,7 +8789,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279616520000</value>
@@ -8830,7 +8830,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279616700000</value>
@@ -8871,7 +8871,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279616880000</value>
@@ -8912,7 +8912,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279617780000</value>
@@ -8953,7 +8953,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279618020000</value>
@@ -8994,7 +8994,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279622820000</value>
@@ -9035,7 +9035,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279623240000</value>
@@ -9076,7 +9076,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279624260000</value>
@@ -9117,7 +9117,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279624680000</value>
@@ -9158,7 +9158,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279625640000</value>
@@ -9199,7 +9199,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279625940000</value>
@@ -9240,7 +9240,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279799040000</value>
@@ -9281,7 +9281,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279627920000</value>
@@ -9322,7 +9322,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279628160000</value>
@@ -9363,7 +9363,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279628640000</value>
@@ -9404,7 +9404,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279628940000</value>
@@ -9445,7 +9445,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279629240000</value>
@@ -9486,7 +9486,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279629660000</value>
@@ -9527,7 +9527,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279639740000</value>
@@ -9568,7 +9568,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279639920000</value>
@@ -9650,7 +9650,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279640400000</value>
@@ -9691,7 +9691,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279641000000</value>
@@ -9732,7 +9732,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279700160000</value>
@@ -9773,7 +9773,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279700820000</value>
@@ -9814,7 +9814,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279700940000</value>
@@ -9855,7 +9855,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279702560000</value>
@@ -9896,7 +9896,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279708020000</value>
@@ -9937,7 +9937,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279708140000</value>
@@ -9978,7 +9978,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279708380000</value>
@@ -10060,7 +10060,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279711020000</value>
@@ -10101,7 +10101,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279711200000</value>
@@ -10142,7 +10142,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279711620000</value>
@@ -10183,7 +10183,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279712160000</value>
@@ -10224,7 +10224,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279712520000</value>
@@ -10265,7 +10265,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279714320000</value>
@@ -10274,10 +10274,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>16</value>
+					<value>17</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>1</value>
+					<value>0</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>17</value>
@@ -10306,7 +10306,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279714560000</value>
@@ -10318,7 +10318,7 @@
 					<value>0</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>40</value>
+					<value>39</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>41</value>
@@ -10347,7 +10347,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279714740000</value>
@@ -10388,7 +10388,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279714920000</value>
@@ -10429,7 +10429,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279715100000</value>
@@ -10438,10 +10438,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>19</value>
+					<value>20</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>26</value>
+					<value>25</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>46</value>
@@ -10470,7 +10470,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279720380000</value>
@@ -10511,7 +10511,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279720920000</value>
@@ -10552,7 +10552,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279721220000</value>
@@ -10634,7 +10634,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279721580000</value>
@@ -10675,7 +10675,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279721880000</value>
@@ -10716,7 +10716,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279723200000</value>
@@ -10725,10 +10725,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>15</value>
+					<value>14</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>9</value>
+					<value>10</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>24</value>
@@ -10757,7 +10757,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279723320000</value>
@@ -10798,7 +10798,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279723500000</value>
@@ -10839,7 +10839,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279723740000</value>
@@ -10921,7 +10921,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279726620000</value>
@@ -10962,7 +10962,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279726980000</value>
@@ -11003,7 +11003,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279727220000</value>
@@ -11044,7 +11044,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279727580000</value>
@@ -11053,10 +11053,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>5</value>
+					<value>4</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>15</value>
+					<value>16</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>20</value>
@@ -11085,7 +11085,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279727880000</value>
@@ -11126,7 +11126,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279728060000</value>
@@ -11167,7 +11167,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279793820000</value>
@@ -11176,10 +11176,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>16</value>
+					<value>17</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>17</value>
+					<value>16</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>34</value>
@@ -11208,7 +11208,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279794060000</value>
@@ -11249,7 +11249,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279795140000</value>
@@ -11331,7 +11331,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279800600000</value>
@@ -11413,7 +11413,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279800900000</value>
@@ -11454,7 +11454,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279801080000</value>
@@ -11495,7 +11495,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1377258960000</value>
@@ -11536,7 +11536,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279801560000</value>
@@ -11577,7 +11577,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279805640000</value>
@@ -11618,7 +11618,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279808160000</value>
@@ -11659,7 +11659,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279808700000</value>
@@ -11741,7 +11741,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279812360000</value>
@@ -11782,7 +11782,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279812720000</value>
@@ -11823,7 +11823,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279816260000</value>
@@ -11864,7 +11864,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279816500000</value>
@@ -11905,7 +11905,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279816740000</value>
@@ -11946,7 +11946,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279875060000</value>
@@ -11987,7 +11987,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279879560000</value>
@@ -12028,7 +12028,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279880100000</value>
@@ -12069,7 +12069,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279880340000</value>
@@ -12110,7 +12110,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279880520000</value>
@@ -12151,7 +12151,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279884480000</value>
@@ -12192,7 +12192,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279884660000</value>
@@ -12233,7 +12233,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279884840000</value>
@@ -12277,7 +12277,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279885080000</value>
@@ -12359,7 +12359,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279890360000</value>
@@ -12400,7 +12400,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279890840000</value>
@@ -12441,7 +12441,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279891020000</value>
@@ -12482,7 +12482,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279891920000</value>
@@ -12564,7 +12564,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279894920000</value>
@@ -12605,7 +12605,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279896660000</value>
@@ -12646,7 +12646,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1279896840000</value>
@@ -12687,7 +12687,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1280133540000</value>
@@ -12728,7 +12728,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1280133720000</value>
@@ -12769,7 +12769,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1280141280000</value>
@@ -12810,7 +12810,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1280141460000</value>
@@ -12851,7 +12851,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1280142360000</value>
@@ -12892,7 +12892,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1280142540000</value>
@@ -12933,7 +12933,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1280147580000</value>
@@ -12974,7 +12974,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1280152560000</value>
@@ -13015,7 +13015,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1280152800000</value>
@@ -13056,7 +13056,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1280153100000</value>
@@ -13097,7 +13097,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1280158740000</value>
@@ -13179,7 +13179,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1280248620000</value>
@@ -13220,7 +13220,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1280222160000</value>
@@ -13261,7 +13261,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1280224260000</value>
@@ -13302,7 +13302,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1280226120000</value>
@@ -13311,10 +13311,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>16</value>
+					<value>17</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>1</value>
+					<value>0</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>17</value>
@@ -13343,7 +13343,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1280229720000</value>
@@ -13352,10 +13352,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>11</value>
+					<value>10</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>21</value>
+					<value>22</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>33</value>
@@ -13384,7 +13384,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1283762460000</value>
@@ -13466,7 +13466,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1284543120000</value>
@@ -13507,7 +13507,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1285756260000</value>
@@ -13548,7 +13548,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1286790480000</value>
@@ -13589,7 +13589,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1286796360000</value>
@@ -13630,7 +13630,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1287652080000</value>
@@ -13671,7 +13671,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -13709,7 +13709,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1287752460000</value>
@@ -13750,7 +13750,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1288009080000</value>
@@ -13832,7 +13832,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1290079860000</value>
@@ -13873,7 +13873,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1288950960000</value>
@@ -13914,7 +13914,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1288958160000</value>
@@ -13955,7 +13955,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1291902600000</value>
@@ -13996,7 +13996,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1290080220000</value>
@@ -14008,7 +14008,7 @@
 					<value>29</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>28</value>
+					<value>27</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>57</value>
@@ -14037,7 +14037,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1289911800000</value>
@@ -14078,7 +14078,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1290080640000</value>
@@ -14087,10 +14087,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>2</value>
+					<value>3</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>30</value>
+					<value>29</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>32</value>
@@ -14119,7 +14119,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1290603600000</value>
@@ -14160,7 +14160,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1290686880000</value>
@@ -14201,7 +14201,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -14239,7 +14239,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1291201680000</value>
@@ -14280,7 +14280,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1291647300000</value>
@@ -14321,7 +14321,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1291712820000</value>
@@ -14362,7 +14362,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1291713000000</value>
@@ -14403,7 +14403,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1295428320000</value>
@@ -14444,7 +14444,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1291725720000</value>
@@ -14485,7 +14485,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1291805820000</value>
@@ -14526,7 +14526,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1294660980000</value>
@@ -14567,7 +14567,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1295265420000</value>
@@ -14608,7 +14608,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1296121500000</value>
@@ -14649,7 +14649,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1296121680000</value>
@@ -14690,7 +14690,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1296125400000</value>
@@ -14731,7 +14731,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1296203760000</value>
@@ -14772,7 +14772,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1297159320000</value>
@@ -14813,7 +14813,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1296649200000</value>
@@ -14854,7 +14854,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1296731880000</value>
@@ -14895,7 +14895,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1296732540000</value>
@@ -14977,7 +14977,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1297182180000</value>
@@ -15018,7 +15018,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1297347960000</value>
@@ -15059,7 +15059,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1297764360000</value>
@@ -15100,7 +15100,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1297956480000</value>
@@ -15144,7 +15144,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1297958700000</value>
@@ -15185,7 +15185,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1298545440000</value>
@@ -15226,7 +15226,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -15264,7 +15264,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1298908800000</value>
@@ -15305,7 +15305,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1299075120000</value>
@@ -15314,10 +15314,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>10</value>
+					<value>11</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>6</value>
+					<value>5</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>16</value>
@@ -15346,7 +15346,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1299075900000</value>
@@ -15399,7 +15399,7 @@
 					<value>9</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>21</value>
+					<value>20</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>30</value>
@@ -15428,7 +15428,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1299582900000</value>
@@ -15469,7 +15469,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1299583260000</value>
@@ -15551,7 +15551,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1299592860000</value>
@@ -15592,7 +15592,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1299593640000</value>
@@ -15633,7 +15633,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1299669180000</value>
@@ -15674,7 +15674,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1299669300000</value>
@@ -15683,10 +15683,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>0</value>
+					<value>1</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>15</value>
+					<value>14</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>15</value>
@@ -15715,7 +15715,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -15753,7 +15753,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -15791,7 +15791,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -15829,16 +15829,16 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>5</value>
+					<value>6</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>13</value>
+					<value>12</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>19</value>
@@ -15867,7 +15867,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1302006180000</value>
@@ -15908,7 +15908,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1308735300000</value>
@@ -15949,7 +15949,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1309258380000</value>
@@ -15990,7 +15990,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1309258440000</value>
@@ -15999,10 +15999,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>16</value>
+					<value>17</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>29</value>
+					<value>28</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>45</value>
@@ -16043,7 +16043,7 @@
 					<value>13</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>18</value>
+					<value>17</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>31</value>
@@ -16072,7 +16072,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1324551120000</value>
@@ -16113,7 +16113,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1310463720000</value>
@@ -16154,7 +16154,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1310725680000</value>
@@ -16195,7 +16195,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1318496100000</value>
@@ -16277,7 +16277,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1323355020000</value>
@@ -16286,10 +16286,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>16</value>
+					<value>15</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>4</value>
+					<value>5</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>20</value>
@@ -16318,7 +16318,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1319448720000</value>
@@ -16359,7 +16359,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1323361560000</value>
@@ -16400,7 +16400,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1323346020000</value>
@@ -16441,7 +16441,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1323350220000</value>
@@ -16453,7 +16453,7 @@
 					<value>5</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>31</value>
+					<value>30</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>36</value>
@@ -16482,7 +16482,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1325746380000</value>
@@ -16523,7 +16523,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1325705460000</value>
@@ -16564,7 +16564,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1325708160000</value>
@@ -16605,7 +16605,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1325711220000</value>
@@ -16646,7 +16646,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1325940420000</value>
@@ -16687,7 +16687,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1325941800000</value>
@@ -16728,7 +16728,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1325944680000</value>
@@ -16769,7 +16769,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1325945820000</value>
@@ -16810,7 +16810,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1325948880000</value>
@@ -16819,10 +16819,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>22</value>
+					<value>21</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>5</value>
+					<value>6</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>27</value>
@@ -16851,7 +16851,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1325949000000</value>
@@ -16892,7 +16892,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1325952660000</value>
@@ -16933,7 +16933,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1325952900000</value>
@@ -16942,10 +16942,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>9</value>
+					<value>10</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>26</value>
+					<value>25</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>35</value>
@@ -16974,7 +16974,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1326105240000</value>
@@ -17015,7 +17015,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1325501400000</value>
@@ -17056,7 +17056,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1326109140000</value>
@@ -17097,7 +17097,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1326111060000</value>
@@ -17138,7 +17138,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1326115380000</value>
@@ -17179,7 +17179,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1326117780000</value>
@@ -17220,7 +17220,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1326197580000</value>
@@ -17261,7 +17261,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1326203280000</value>
@@ -17270,10 +17270,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>14</value>
+					<value>15</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>15</value>
+					<value>14</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>29</value>
@@ -17302,7 +17302,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1326294780000</value>
@@ -17343,7 +17343,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -17381,7 +17381,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1326284820000</value>
@@ -17463,7 +17463,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1326294600000</value>
@@ -17475,7 +17475,7 @@
 					<value>12</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>33</value>
+					<value>31</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>45</value>
@@ -17504,7 +17504,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -17542,7 +17542,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1326304980000</value>
@@ -17583,7 +17583,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1333613280000</value>
@@ -17624,7 +17624,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1326360000000</value>
@@ -17665,7 +17665,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1326374040000</value>
@@ -17706,7 +17706,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1326375720000</value>
@@ -17747,7 +17747,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1326381060000</value>
@@ -17788,7 +17788,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1326790620000</value>
@@ -17829,7 +17829,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1326790860000</value>
@@ -17870,7 +17870,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1326816540000</value>
@@ -17911,7 +17911,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1326822960000</value>
@@ -17952,7 +17952,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1326825480000</value>
@@ -17993,7 +17993,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1326962100000</value>
@@ -18034,7 +18034,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1326963780000</value>
@@ -18075,7 +18075,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1326965580000</value>
@@ -18116,7 +18116,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1326966240000</value>
@@ -18157,7 +18157,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1326975420000</value>
@@ -18198,7 +18198,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1326996480000</value>
@@ -18239,7 +18239,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1326996720000</value>
@@ -18280,7 +18280,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1327088280000</value>
@@ -18289,10 +18289,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>25</value>
+					<value>29</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>8</value>
+					<value>4</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>33</value>
@@ -18321,7 +18321,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1327339740000</value>
@@ -18362,7 +18362,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1327255440000</value>
@@ -18403,7 +18403,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1327338660000</value>
@@ -18444,7 +18444,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1327936860000</value>
@@ -18485,7 +18485,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1327254960000</value>
@@ -18526,7 +18526,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1327087920000</value>
@@ -18567,7 +18567,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -18605,7 +18605,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1327256220000</value>
@@ -18646,7 +18646,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1327256520000</value>
@@ -18658,7 +18658,7 @@
 					<value>13</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>25</value>
+					<value>24</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>39</value>
@@ -18728,7 +18728,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1327340460000</value>
@@ -18740,7 +18740,7 @@
 					<value>25</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>14</value>
+					<value>13</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>39</value>
@@ -18810,7 +18810,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1327398420000</value>
@@ -18892,7 +18892,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1327407960000</value>
@@ -18901,7 +18901,7 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>23</value>
+					<value>24</value>
 				</Data>
 				<Data name="nbEmptyDocks">
 					<value>12</value>
@@ -18933,7 +18933,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1327430040000</value>
@@ -18945,7 +18945,7 @@
 					<value>13</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>28</value>
+					<value>27</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>41</value>
@@ -19015,7 +19015,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1563957840000</value>
@@ -19097,7 +19097,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1327937820000</value>
@@ -19138,7 +19138,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1327937460000</value>
@@ -19179,7 +19179,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1327938660000</value>
@@ -19220,7 +19220,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1327938420000</value>
@@ -19261,7 +19261,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1327938180000</value>
@@ -19302,7 +19302,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1327938120000</value>
@@ -19314,7 +19314,7 @@
 					<value>1</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>18</value>
+					<value>17</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>19</value>
@@ -19343,7 +19343,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -19381,7 +19381,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1327937940000</value>
@@ -19422,7 +19422,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1328112600000</value>
@@ -19463,7 +19463,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -19501,7 +19501,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1328201520000</value>
@@ -19542,7 +19542,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -19580,7 +19580,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1328202420000</value>
@@ -19621,7 +19621,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1326790860000</value>
@@ -19662,7 +19662,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -19700,7 +19700,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -19738,7 +19738,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -19776,7 +19776,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -19852,7 +19852,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -19890,7 +19890,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1328515080000</value>
@@ -19931,7 +19931,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1643301180000</value>
@@ -19972,7 +19972,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -20010,7 +20010,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1328777280000</value>
@@ -20051,7 +20051,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1328777880000</value>
@@ -20092,7 +20092,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -20130,7 +20130,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -20168,7 +20168,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1328778840000</value>
@@ -20209,7 +20209,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1328886360000</value>
@@ -20250,7 +20250,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -20288,7 +20288,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -20326,7 +20326,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -20364,7 +20364,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -20402,7 +20402,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1330352880000</value>
@@ -20443,7 +20443,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -20481,7 +20481,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -20519,7 +20519,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -20557,7 +20557,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -20595,7 +20595,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -20671,7 +20671,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -20747,7 +20747,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -20785,7 +20785,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -20794,7 +20794,7 @@
 					<value>16</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>35</value>
+					<value>34</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>51</value>
@@ -20823,7 +20823,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -20861,7 +20861,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -20870,7 +20870,7 @@
 					<value>27</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>18</value>
+					<value>17</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>45</value>
@@ -20899,7 +20899,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -20937,7 +20937,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1330071720000</value>
@@ -20978,7 +20978,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -21016,7 +21016,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -21054,7 +21054,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -21098,10 +21098,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>4</value>
+					<value>9</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>23</value>
+					<value>18</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>27</value>
@@ -21130,7 +21130,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -21139,7 +21139,7 @@
 					<value>0</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>20</value>
+					<value>19</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>20</value>
@@ -21168,7 +21168,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1399635120000</value>
@@ -21177,10 +21177,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>6</value>
+					<value>5</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>17</value>
+					<value>18</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>24</value>
@@ -21209,7 +21209,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -21247,7 +21247,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -21285,7 +21285,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1330503540000</value>
@@ -21326,7 +21326,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1330503420000</value>
@@ -21367,7 +21367,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -21405,7 +21405,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -21443,7 +21443,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -21481,7 +21481,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1330937940000</value>
@@ -21522,7 +21522,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -21560,7 +21560,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -21598,7 +21598,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1330773180000</value>
@@ -21607,10 +21607,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>9</value>
+					<value>8</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>27</value>
+					<value>28</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>36</value>
@@ -21639,7 +21639,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1330620180000</value>
@@ -21680,7 +21680,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -21759,7 +21759,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1333618560000</value>
@@ -21800,7 +21800,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -21838,7 +21838,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -21917,7 +21917,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -21955,7 +21955,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1392208500000</value>
@@ -21996,7 +21996,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1331883540000</value>
@@ -22037,7 +22037,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -22075,7 +22075,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -22113,7 +22113,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1331797200000</value>
@@ -22154,7 +22154,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1332406320000</value>
@@ -22195,7 +22195,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1330937820000</value>
@@ -22236,16 +22236,16 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>18</value>
+					<value>17</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>0</value>
+					<value>1</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>18</value>
@@ -22274,7 +22274,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -22312,7 +22312,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1330759800000</value>
@@ -22353,7 +22353,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -22391,7 +22391,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -22429,7 +22429,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1331710680000</value>
@@ -22470,7 +22470,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -22508,7 +22508,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -22546,7 +22546,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -22625,7 +22625,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -22663,16 +22663,16 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>12</value>
+					<value>13</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>9</value>
+					<value>8</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>21</value>
@@ -22701,7 +22701,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -22739,7 +22739,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -22777,7 +22777,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -22815,7 +22815,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -22853,7 +22853,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -22891,7 +22891,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -22929,7 +22929,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -22967,7 +22967,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -23005,7 +23005,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1380109980000</value>
@@ -23046,7 +23046,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1380113460000</value>
@@ -23087,7 +23087,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1380203940000</value>
@@ -23128,7 +23128,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1380294600000</value>
@@ -23169,7 +23169,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1380211860000</value>
@@ -23210,7 +23210,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1380795000000</value>
@@ -23251,7 +23251,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1380288900000</value>
@@ -23292,7 +23292,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -23330,7 +23330,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1380531540000</value>
@@ -23371,7 +23371,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1380546540000</value>
@@ -23412,7 +23412,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1380552360000</value>
@@ -23494,7 +23494,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1380899280000</value>
@@ -23535,7 +23535,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1380901680000</value>
@@ -23576,7 +23576,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1381135320000</value>
@@ -23617,7 +23617,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1381224240000</value>
@@ -23658,7 +23658,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1381227480000</value>
@@ -23699,7 +23699,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1381920300000</value>
@@ -23740,7 +23740,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1381931400000</value>
@@ -23822,7 +23822,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1381479480000</value>
@@ -23875,7 +23875,7 @@
 					<value>19</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>9</value>
+					<value>8</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>28</value>
@@ -23904,7 +23904,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1381245300000</value>
@@ -23945,7 +23945,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1381220700000</value>
@@ -23986,7 +23986,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1381402920000</value>
@@ -24027,7 +24027,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1381743780000</value>
@@ -24068,7 +24068,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1381756440000</value>
@@ -24109,7 +24109,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1381846320000</value>
@@ -24150,7 +24150,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1381933680000</value>
@@ -24191,7 +24191,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1381834020000</value>
@@ -24200,7 +24200,7 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>22</value>
+					<value>23</value>
 				</Data>
 				<Data name="nbEmptyDocks">
 					<value>4</value>
@@ -24232,7 +24232,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1382010420000</value>
@@ -24241,10 +24241,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>16</value>
+					<value>15</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>12</value>
+					<value>13</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>28</value>
@@ -24273,7 +24273,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1381926900000</value>
@@ -24314,7 +24314,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1381934220000</value>
@@ -24355,7 +24355,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1382010720000</value>
@@ -24396,7 +24396,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1382278560000</value>
@@ -24437,7 +24437,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1382110800000</value>
@@ -24478,7 +24478,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1382084340000</value>
@@ -24519,7 +24519,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1382347140000</value>
@@ -24560,7 +24560,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1382352840000</value>
@@ -24601,7 +24601,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1382348400000</value>
@@ -24610,10 +24610,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>17</value>
+					<value>18</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>5</value>
+					<value>4</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>22</value>
@@ -24642,7 +24642,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1382438520000</value>
@@ -24683,7 +24683,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1382441580000</value>
@@ -24724,7 +24724,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1381848540000</value>
@@ -24806,7 +24806,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1382520000000</value>
@@ -24815,10 +24815,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>15</value>
+					<value>16</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>19</value>
+					<value>18</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>34</value>
@@ -24847,7 +24847,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1382611200000</value>
@@ -24888,7 +24888,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1382614560000</value>
@@ -24929,7 +24929,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1382621400000</value>
@@ -24938,10 +24938,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>8</value>
+					<value>7</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>13</value>
+					<value>14</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>21</value>
@@ -24970,7 +24970,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1383731100000</value>
@@ -25011,7 +25011,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1382697060000</value>
@@ -25052,7 +25052,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1382705340000</value>
@@ -25064,7 +25064,7 @@
 					<value>12</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>10</value>
+					<value>9</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>22</value>
@@ -25143,10 +25143,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>17</value>
+					<value>18</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>7</value>
+					<value>6</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>24</value>
@@ -25175,7 +25175,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1382870040000</value>
@@ -25257,7 +25257,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1382975700000</value>
@@ -25266,10 +25266,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>3</value>
+					<value>4</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>18</value>
+					<value>17</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>22</value>
@@ -25298,7 +25298,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1383063480000</value>
@@ -25339,7 +25339,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1383136140000</value>
@@ -25380,7 +25380,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1383143160000</value>
@@ -25421,7 +25421,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1383147660000</value>
@@ -25462,7 +25462,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1383212640000</value>
@@ -25503,7 +25503,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1383217920000</value>
@@ -25515,7 +25515,7 @@
 					<value>13</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>43</value>
+					<value>42</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>56</value>
@@ -25544,7 +25544,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1383221460000</value>
@@ -25553,10 +25553,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>19</value>
+					<value>18</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>5</value>
+					<value>6</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>24</value>
@@ -25585,7 +25585,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1383319500000</value>
@@ -25664,7 +25664,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1383322320000</value>
@@ -25705,7 +25705,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1383584400000</value>
@@ -25746,7 +25746,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1383476160000</value>
@@ -25787,7 +25787,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1383653580000</value>
@@ -25828,7 +25828,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1383661200000</value>
@@ -25869,7 +25869,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1383657480000</value>
@@ -25910,7 +25910,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1383733440000</value>
@@ -25951,7 +25951,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1383738240000</value>
@@ -26001,10 +26001,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>23</value>
+					<value>24</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>5</value>
+					<value>4</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>28</value>
@@ -26033,7 +26033,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1383823380000</value>
@@ -26074,7 +26074,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1383827400000</value>
@@ -26115,7 +26115,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1383835560000</value>
@@ -26156,7 +26156,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1383838440000</value>
@@ -26197,7 +26197,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1383915240000</value>
@@ -26361,7 +26361,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1384166220000</value>
@@ -26443,7 +26443,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1384004640000</value>
@@ -26484,7 +26484,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1384172820000</value>
@@ -26525,7 +26525,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1384180020000</value>
@@ -26566,7 +26566,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1384251120000</value>
@@ -26607,7 +26607,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1384254300000</value>
@@ -26648,7 +26648,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1384256040000</value>
@@ -26689,7 +26689,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1384343280000</value>
@@ -26730,7 +26730,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1384345080000</value>
@@ -26742,7 +26742,7 @@
 					<value>11</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>19</value>
+					<value>18</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>30</value>
@@ -26771,7 +26771,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1384345860000</value>
@@ -26812,7 +26812,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1384357800000</value>
@@ -26853,7 +26853,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1384443480000</value>
@@ -26894,7 +26894,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1384453020000</value>
@@ -26906,10 +26906,10 @@
 					<value>true</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>2</value>
+					<value>1</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>23</value>
+					<value>24</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>25</value>
@@ -26979,7 +26979,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1384435680000</value>
@@ -27020,7 +27020,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1384530180000</value>
@@ -27061,7 +27061,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1384510140000</value>
@@ -27102,7 +27102,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1384520580000</value>
@@ -27184,7 +27184,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1384797120000</value>
@@ -27196,7 +27196,7 @@
 					<value>7</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>15</value>
+					<value>14</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>22</value>
@@ -27225,7 +27225,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1384774620000</value>
@@ -27266,7 +27266,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1384865400000</value>
@@ -27307,7 +27307,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1384868460000</value>
@@ -27348,7 +27348,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1384873500000</value>
@@ -27389,7 +27389,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1384952400000</value>
@@ -27430,7 +27430,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1384962840000</value>
@@ -27439,10 +27439,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>12</value>
+					<value>13</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>33</value>
+					<value>30</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>45</value>
@@ -27471,7 +27471,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1384968480000</value>
@@ -27512,7 +27512,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1385025840000</value>
@@ -27553,7 +27553,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1385028480000</value>
@@ -27594,7 +27594,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1385028600000</value>
@@ -27635,7 +27635,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1385035380000</value>
@@ -27676,7 +27676,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1385125380000</value>
@@ -27717,7 +27717,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1563352500000</value>
@@ -27758,7 +27758,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1385128740000</value>
@@ -27767,10 +27767,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>15</value>
+					<value>16</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>6</value>
+					<value>5</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>22</value>
@@ -27840,7 +27840,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1385466780000</value>
@@ -27922,7 +27922,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1385132580000</value>
@@ -27963,7 +27963,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1385394720000</value>
@@ -28004,7 +28004,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1385458020000</value>
@@ -28013,10 +28013,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>7</value>
+					<value>6</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>13</value>
+					<value>14</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>21</value>
@@ -28045,7 +28045,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1385460840000</value>
@@ -28086,7 +28086,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1385464500000</value>
@@ -28127,7 +28127,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1385383080000</value>
@@ -28136,10 +28136,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>22</value>
+					<value>23</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>6</value>
+					<value>5</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>28</value>
@@ -28168,7 +28168,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1385472900000</value>
@@ -28209,7 +28209,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1385554620000</value>
@@ -28250,7 +28250,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1385563380000</value>
@@ -28259,10 +28259,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>4</value>
+					<value>6</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>32</value>
+					<value>30</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>37</value>
@@ -28291,7 +28291,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1385631000000</value>
@@ -28332,7 +28332,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1385635440000</value>
@@ -28373,7 +28373,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1385640120000</value>
@@ -28414,7 +28414,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1385649540000</value>
@@ -28455,7 +28455,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1385723700000</value>
@@ -28537,7 +28537,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1385740020000</value>
@@ -28578,7 +28578,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1385985720000</value>
@@ -28619,7 +28619,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1385997240000</value>
@@ -28669,10 +28669,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>24</value>
+					<value>25</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>1</value>
+					<value>0</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>25</value>
@@ -28701,7 +28701,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1386172440000</value>
@@ -28783,7 +28783,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1386250800000</value>
@@ -28824,7 +28824,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1650364320000</value>
@@ -28865,7 +28865,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1386347520000</value>
@@ -28947,7 +28947,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1389008580000</value>
@@ -28988,7 +28988,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1390223040000</value>
@@ -29029,7 +29029,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1389094260000</value>
@@ -29070,7 +29070,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1389178020000</value>
@@ -29111,7 +29111,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1389627480000</value>
@@ -29152,7 +29152,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1390310760000</value>
@@ -29193,7 +29193,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1389781800000</value>
@@ -29234,7 +29234,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1392039000000</value>
@@ -29275,7 +29275,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1392043020000</value>
@@ -29284,7 +29284,7 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>28</value>
+					<value>29</value>
 				</Data>
 				<Data name="nbEmptyDocks">
 					<value>16</value>
@@ -29316,7 +29316,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1392633480000</value>
@@ -29398,7 +29398,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1392894840000</value>
@@ -29439,7 +29439,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1393406280000</value>
@@ -29480,7 +29480,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1393494060000</value>
@@ -29489,7 +29489,7 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>36</value>
+					<value>37</value>
 				</Data>
 				<Data name="nbEmptyDocks">
 					<value>0</value>
@@ -29521,7 +29521,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1393939560000</value>
@@ -29562,7 +29562,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1394099280000</value>
@@ -29603,7 +29603,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1394018400000</value>
@@ -29685,7 +29685,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1396262520000</value>
@@ -29726,7 +29726,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1396265880000</value>
@@ -29767,7 +29767,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1396270320000</value>
@@ -29808,7 +29808,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1406282940000</value>
@@ -29817,10 +29817,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>12</value>
+					<value>13</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>9</value>
+					<value>8</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>21</value>
@@ -29849,7 +29849,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1435313700000</value>
@@ -29858,10 +29858,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>9</value>
+					<value>10</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>19</value>
+					<value>18</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>28</value>
@@ -29890,7 +29890,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1439455200000</value>
@@ -29902,7 +29902,7 @@
 					<value>17</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>8</value>
+					<value>7</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>25</value>
@@ -29931,7 +29931,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1446485340000</value>
@@ -30013,7 +30013,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1448529660000</value>
@@ -30054,7 +30054,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1452789240000</value>
@@ -30095,7 +30095,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1451918160000</value>
@@ -30136,7 +30136,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1451900700000</value>
@@ -30177,7 +30177,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1451906880000</value>
@@ -30218,7 +30218,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1452507000000</value>
@@ -30300,7 +30300,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1454926380000</value>
@@ -30341,7 +30341,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1459424760000</value>
@@ -30382,7 +30382,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1456404240000</value>
@@ -30423,7 +30423,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1456744740000</value>
@@ -30464,7 +30464,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1456746420000</value>
@@ -30505,7 +30505,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1456839540000</value>
@@ -30546,7 +30546,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1464787980000</value>
@@ -30587,7 +30587,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1464876480000</value>
@@ -30628,7 +30628,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1457107140000</value>
@@ -30710,7 +30710,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1464865500000</value>
@@ -30751,7 +30751,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1464787860000</value>
@@ -30792,7 +30792,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1459410960000</value>
@@ -30801,10 +30801,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>17</value>
+					<value>18</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>8</value>
+					<value>7</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>27</value>
@@ -30833,7 +30833,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1467626400000</value>
@@ -30874,7 +30874,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1472723460000</value>
@@ -30883,10 +30883,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>24</value>
+					<value>25</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>3</value>
+					<value>2</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>27</value>
@@ -30915,7 +30915,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1466715600000</value>
@@ -30956,7 +30956,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1461753540000</value>
@@ -31079,7 +31079,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1469538960000</value>
@@ -31088,10 +31088,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>0</value>
+					<value>1</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>36</value>
+					<value>35</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>36</value>
@@ -31120,7 +31120,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1469005200000</value>
@@ -31202,7 +31202,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1464870060000</value>
@@ -31243,7 +31243,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1462357680000</value>
@@ -31284,7 +31284,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1489065360000</value>
@@ -31325,7 +31325,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1464949140000</value>
@@ -31366,7 +31366,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1563958740000</value>
@@ -31407,7 +31407,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1476360120000</value>
@@ -31448,7 +31448,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1481807940000</value>
@@ -31489,7 +31489,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1487335920000</value>
@@ -31498,10 +31498,10 @@
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>4</value>
+					<value>5</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>22</value>
+					<value>21</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>27</value>
@@ -31530,7 +31530,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1500554880000</value>
@@ -31571,7 +31571,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1517788800000</value>
@@ -31612,7 +31612,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1517788800000</value>
@@ -31653,7 +31653,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1517443200000</value>
@@ -31694,7 +31694,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1517961600000</value>
@@ -31735,7 +31735,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1517961600000</value>
@@ -31776,7 +31776,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1517961600000</value>
@@ -31817,7 +31817,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1517875200000</value>
@@ -31829,7 +31829,7 @@
 					<value>25</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>17</value>
+					<value>16</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>42</value>
@@ -31858,7 +31858,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1529449200000</value>
@@ -31937,16 +31937,16 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
 				</Data>
 				<Data name="nbBikes">
-					<value>11</value>
+					<value>12</value>
 				</Data>
 				<Data name="nbEmptyDocks">
-					<value>13</value>
+					<value>12</value>
 				</Data>
 				<Data name="nbDocks">
 					<value>24</value>
@@ -31975,7 +31975,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1539254700000</value>
@@ -32016,7 +32016,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1544611140000</value>
@@ -32098,7 +32098,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -32136,7 +32136,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1600856400000</value>
@@ -32177,7 +32177,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1608298140000</value>
@@ -32218,7 +32218,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1608303660000</value>
@@ -32259,7 +32259,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1659792420000</value>
@@ -32300,7 +32300,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -32338,7 +32338,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -32376,7 +32376,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -32414,7 +32414,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="installDate">
 					<value>1666044000000</value>
@@ -32455,7 +32455,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
