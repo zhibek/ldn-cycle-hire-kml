@@ -5344,26 +5344,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.06111,51.518675</coordinates>
-			</Point>
-			<name>Royal London Hospital, Whitechapel</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>282</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.118478757,51.51440928</coordinates>
 			</Point>
 			<name>Kingsway, Covent Garden</name>
