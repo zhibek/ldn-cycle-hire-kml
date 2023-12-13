@@ -13144,26 +13144,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.176267008,51.47287627</coordinates>
-			</Point>
-			<name>Vicarage Crescent, Battersea</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>701</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.065550321,51.52868155</coordinates>
 			</Point>
 			<name>Durant Street, Bethnal Green</name>
