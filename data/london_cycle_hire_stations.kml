@@ -6104,26 +6104,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.083067,51.523196</coordinates>
-			</Point>
-			<name>Clifton Street, Shoreditch</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>323</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.101384068,51.49652013</coordinates>
 			</Point>
 			<name>Ontario Street, Elephant &amp; Castle</name>
