@@ -1404,6 +1404,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.08853260000000773,51.525615</coordinates>
+			</Point>
+			<name>Old Street Station, St. Luke's</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>73</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.124469948,51.48591714</coordinates>
 			</Point>
 			<name>Vauxhall Cross, Vauxhall</name>
