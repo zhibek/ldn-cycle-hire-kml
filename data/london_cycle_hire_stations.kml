@@ -7684,26 +7684,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.083935724,51.520009</coordinates>
-			</Point>
-			<name>Sun Street, Liverpool Street</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>408</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.099828,51.493146</coordinates>
 			</Point>
 			<name>Strata, Elephant &amp; Castle</name>
