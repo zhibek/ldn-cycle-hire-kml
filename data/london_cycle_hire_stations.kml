@@ -2964,26 +2964,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.11282408,51.50379168</coordinates>
-			</Point>
-			<name>Waterloo Station 3, Waterloo</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>154</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.191933711,51.49586666</coordinates>
 			</Point>
 			<name>Lexham Gardens, Kensington</name>
@@ -5824,26 +5804,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.119047563,51.50963123</coordinates>
-			</Point>
-			<name>Embankment (Savoy), Strand</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>309</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.116911864,51.4908679</coordinates>
 			</Point>
 			<name>Black Prince Road, Vauxhall</name>
@@ -6644,26 +6604,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.123702,51.506767</coordinates>
-			</Point>
-			<name>Northumberland Avenue, Strand</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>354</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.13922146,51.461388</coordinates>
 			</Point>
 			<name>Clapham Common Station, Clapham Common</name>
@@ -6776,26 +6716,6 @@
 				</Data>
 				<Data name="locked">
 					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.11342629,51.50391973</coordinates>
-			</Point>
-			<name>Waterloo Station 2, Waterloo</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>361</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -7016,26 +6936,6 @@
 				</Data>
 				<Data name="locked">
 					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.11386436,51.50402794</coordinates>
-			</Point>
-			<name>Waterloo Station 1, Waterloo</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>374</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -12504,26 +12404,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.1167474,51.502698</coordinates>
-			</Point>
-			<name>Chicheley Street, South Bank</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>672</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.18038939,51.46517078</coordinates>
 			</Point>
 			<name>Hibbert Street, Battersea</name>
@@ -15336,26 +15216,6 @@
 				</Data>
 				<Data name="locked">
 					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.12382322,51.501513</coordinates>
-			</Point>
-			<name>Westminster Pier, Westminster</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>818</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
