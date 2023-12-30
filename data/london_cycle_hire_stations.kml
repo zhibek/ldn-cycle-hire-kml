@@ -3724,26 +3724,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.111606696,51.50556905</coordinates>
-			</Point>
-			<name>Stamford Street, South Bank</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>197</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.082989638,51.51048489</coordinates>
 			</Point>
 			<name>Great Tower Street, Monument</name>
@@ -10316,26 +10296,6 @@
 				</Data>
 				<Data name="locked">
 					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.117619,51.509943</coordinates>
-			</Point>
-			<name>Somerset House, Strand</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>564</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
