@@ -3304,26 +3304,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.113001,51.50486</coordinates>
-			</Point>
-			<name>Waterloo Road, South Bank</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>173</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.079608554,51.521668</coordinates>
 			</Point>
 			<name>Worship Street, Shoreditch</name>
@@ -15576,26 +15556,6 @@
 				</Data>
 				<Data name="locked">
 					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.10832249,51.510981</coordinates>
-			</Point>
-			<name>Temple Gardens, Temple</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>842</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
