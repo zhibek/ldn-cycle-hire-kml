@@ -3644,26 +3644,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.106237501,51.50724437</coordinates>
-			</Point>
-			<name>Milroy Walk, South Bank</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>195</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.098497684,51.50368837</coordinates>
 			</Point>
 			<name>Union Street, The Borough</name>
