@@ -3764,6 +3764,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.111606696,51.50556905</coordinates>
+			</Point>
+			<name>Stamford Street, South Bank</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>197</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.082989638,51.51048489</coordinates>
 			</Point>
 			<name>Great Tower Street, Monument</name>
@@ -4330,6 +4350,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>228</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.123179697,51.50654321</coordinates>
+			</Point>
+			<name>Whitehall Place, Strand</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>229</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -12450,6 +12490,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>671</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.1167474,51.502698</coordinates>
+			</Point>
+			<name>Chicheley Street, South Bank</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>672</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
