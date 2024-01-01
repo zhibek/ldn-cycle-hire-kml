@@ -1535,7 +1535,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -2950,6 +2950,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>153</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.11282408,51.50379168</coordinates>
+			</Point>
+			<name>Waterloo Station 3, Waterloo</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>154</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -4535,7 +4555,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -6275,7 +6295,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -6315,7 +6335,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -6495,7 +6515,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -6744,6 +6764,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.11342629,51.50391973</coordinates>
+			</Point>
+			<name>Waterloo Station 2, Waterloo</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>361</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.133952,51.536264</coordinates>
 			</Point>
 			<name>Royal College Street, Camden Town</name>
@@ -6950,6 +6990,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>373</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.11386436,51.50402794</coordinates>
+			</Point>
+			<name>Waterloo Station 1, Waterloo</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>374</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -7655,7 +7715,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -7675,7 +7735,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -10675,7 +10735,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -12155,7 +12215,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -14195,7 +14255,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -14415,7 +14475,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -15175,7 +15235,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -15555,7 +15615,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -15775,7 +15835,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
