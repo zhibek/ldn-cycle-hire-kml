@@ -524,6 +524,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.107927706,51.51382102</coordinates>
+			</Point>
+			<name>Bouverie Street, Temple</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>27</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.143613641,51.52351808</coordinates>
 			</Point>
 			<name>Bolsover Street, Fitzrovia</name>
@@ -1496,6 +1516,26 @@
 				</Data>
 				<Data name="locked">
 					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.11385596,51.511726</coordinates>
+			</Point>
+			<name>Arundel Street, Temple</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>79</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -3264,6 +3304,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.113001,51.50486</coordinates>
+			</Point>
+			<name>Waterloo Road, South Bank</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>173</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.079608554,51.521668</coordinates>
 			</Point>
 			<name>Worship Street, Shoreditch</name>
@@ -3630,6 +3690,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>194</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.106237501,51.50724437</coordinates>
+			</Point>
+			<name>Milroy Walk, South Bank</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>195</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -4444,6 +4524,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.10569204,51.50545935</coordinates>
+			</Point>
+			<name>Colombo Street, Southwark</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>240</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>true</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.151359288,51.52200801</coordinates>
 			</Point>
 			<name>Beaumont Street, Marylebone</name>
@@ -5024,6 +5124,46 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.110699309,51.50144456</coordinates>
+			</Point>
+			<name>Baylis Road, Waterloo</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>272</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.114686385,51.50613324</coordinates>
+			</Point>
+			<name>Belvedere Road 1, South Bank</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>273</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.20528437,51.49671237</coordinates>
 			</Point>
 			<name>Warwick Road, Olympia</name>
@@ -5190,6 +5330,46 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>282</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.118478757,51.51440928</coordinates>
+			</Point>
+			<name>Kingsway, Covent Garden</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>283</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.112031483,51.49914063</coordinates>
+			</Point>
+			<name>Lambeth North Station, Waterloo</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>284</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -6084,6 +6264,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.115851,51.505044</coordinates>
+			</Point>
+			<name>Concert Hall Approach 1, South Bank</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>334</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>true</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.120718759,51.51196803</coordinates>
 			</Point>
 			<name>Tavistock Street, Covent Garden</name>
@@ -6096,6 +6296,26 @@
 				</Data>
 				<Data name="locked">
 					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.115533,51.504942</coordinates>
+			</Point>
+			<name>Concert Hall Approach 2, South Bank</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>336</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -6184,6 +6404,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.12602103,51.50810309</coordinates>
+			</Point>
+			<name>Craven Street, Strand</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>341</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.150181444,51.53692216</coordinates>
 			</Point>
 			<name>London Zoo Car Park, The Regent's Park</name>
@@ -6236,6 +6476,26 @@
 				</Data>
 				<Data name="locked">
 					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.113936001,51.50013942</coordinates>
+			</Point>
+			<name>Lower Marsh, Waterloo</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>347</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -7376,6 +7636,46 @@
 				</Data>
 				<Data name="locked">
 					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.105312,51.504043</coordinates>
+			</Point>
+			<name>Southwark Station 1, Southwark</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>420</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>true</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.104778,51.504044</coordinates>
+			</Point>
+			<name>Southwark Station 2, Southwark</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>421</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -10364,6 +10664,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.12597218,51.49764</coordinates>
+			</Point>
+			<name>Abingdon Green, Westminster</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>583</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>true</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.19096,51.51244</coordinates>
 			</Point>
 			<name>Ilchester Gardens, Bayswater</name>
@@ -10530,6 +10850,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>593</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.117774,51.513875</coordinates>
+			</Point>
+			<name>Kingsway Southbound, Strand</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>594</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -11796,6 +12136,26 @@
 				</Data>
 				<Data name="locked">
 					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.10307894,51.511934</coordinates>
+			</Point>
+			<name>Blackfriars Station, St. Paul's</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>659</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -13824,6 +14184,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.129698963,51.50070305</coordinates>
+			</Point>
+			<name>Storey's Gate, Westminster</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>762</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>true</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.032566533,51.52059714</coordinates>
 			</Point>
 			<name>Mile End Park Leisure Centre, Mile End</name>
@@ -14016,6 +14396,26 @@
 				</Data>
 				<Data name="locked">
 					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.107349,51.511891</coordinates>
+			</Point>
+			<name>Tallis Street, Temple</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>773</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -14764,6 +15164,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.116628700672,51.5000891978</coordinates>
+			</Point>
+			<name>Lambeth Palace Road, Waterloo</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>815</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>true</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.0205975904647,51.5465327935</coordinates>
 			</Point>
 			<name>Here East South, Queen Elizabeth Olympic Park</name>
@@ -14790,6 +15210,46 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>817</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.12382322,51.501513</coordinates>
+			</Point>
+			<name>Westminster Pier, Westminster</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>818</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.114842,51.50621</coordinates>
+			</Point>
+			<name>Belvedere Road 2, South Bank</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>819</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -15084,6 +15544,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.10682363,51.508033</coordinates>
+			</Point>
+			<name>Sea Containers, South Bank</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>839</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>true</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.068981764,51.498585</coordinates>
 			</Point>
 			<name>George Row, Bermondsey</name>
@@ -15276,6 +15756,26 @@
 				</Data>
 				<Data name="locked">
 					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.11505729999998948,51.512582</coordinates>
+			</Point>
+			<name>Strand, Strand</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>857</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
