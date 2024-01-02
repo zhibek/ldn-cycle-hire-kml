@@ -2384,26 +2384,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.150905245,51.49654462</coordinates>
-			</Point>
-			<name>Eaton Square, Belgravia</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>124</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>true</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.094524319,51.50069491</coordinates>
 			</Point>
 			<name>Borough High Street, The Borough</name>
