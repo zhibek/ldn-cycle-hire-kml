@@ -44,6 +44,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.084605692,51.52128377</coordinates>
+			</Point>
+			<name>Christopher Street, Liverpool Street</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>3</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.120973687,51.53005939</coordinates>
 			</Point>
 			<name>St. Chad's Street, King's Cross</name>
