@@ -4624,26 +4624,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.128585022,51.51611887</coordinates>
-			</Point>
-			<name>Earnshaw Street , Covent Garden</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>244</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.142207481,51.4853572</coordinates>
 			</Point>
 			<name>Grosvenor Road, Pimlico</name>
