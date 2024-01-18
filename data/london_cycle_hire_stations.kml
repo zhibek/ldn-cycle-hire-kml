@@ -8744,6 +8744,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.027616,51.529452</coordinates>
+			</Point>
+			<name>Malmesbury Road, Bow</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>472</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.019355,51.496137</coordinates>
 			</Point>
 			<name>Millharbour, Millwall</name>
