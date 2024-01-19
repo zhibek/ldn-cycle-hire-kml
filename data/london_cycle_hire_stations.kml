@@ -6504,26 +6504,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.10102611,51.528246</coordinates>
-			</Point>
-			<name>Goswell Road (City Uni), Finsbury</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>344</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.166878535,51.48802358</coordinates>
 			</Point>
 			<name>Flood Street, Chelsea</name>
