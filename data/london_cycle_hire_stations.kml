@@ -12484,6 +12484,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.222293381,51.5015946</coordinates>
+			</Point>
+			<name>Shepherd's Bush Road North, Shepherd's Bush</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>667</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.236769936,51.49422354</coordinates>
 			</Point>
 			<name>Ravenscourt Park Station, Hammersmith</name>
