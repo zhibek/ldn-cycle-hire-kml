@@ -11824,26 +11824,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.215804559,51.49434708</coordinates>
-			</Point>
-			<name>Brook Green South, Brook Green</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>634</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.214428378,51.48606206</coordinates>
 			</Point>
 			<name>Greyhound Road, Hammersmith</name>
