@@ -12884,6 +12884,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.180884959,51.45922541</coordinates>
+			</Point>
+			<name>Spanish Road, Clapham Junction</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>689</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.152130083,51.47047503</coordinates>
 			</Point>
 			<name>Stanley Grove, Battersea</name>
