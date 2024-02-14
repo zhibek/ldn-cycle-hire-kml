@@ -1584,26 +1584,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.111257,51.514274</coordinates>
-			</Point>
-			<name>Chancery Lane, Holborn</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>82</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.131510949,51.50963938</coordinates>
 			</Point>
 			<name>Panton Street, West End</name>
