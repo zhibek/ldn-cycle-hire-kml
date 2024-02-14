@@ -3564,26 +3564,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.164393768,51.5165179</coordinates>
-			</Point>
-			<name>Nutford Place, Marylebone</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>188</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.109914711,51.53166681</coordinates>
 			</Point>
 			<name>Claremont Square, Angel</name>
