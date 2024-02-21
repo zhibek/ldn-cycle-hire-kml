@@ -13224,6 +13224,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.215550761,51.46321128</coordinates>
+			</Point>
+			<name>Montserrat Road , Putney</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>709</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.163347594,51.47439218</coordinates>
 			</Point>
 			<name>Albert Bridge Road, Battersea Park</name>
