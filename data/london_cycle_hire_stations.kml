@@ -10744,26 +10744,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.147983,51.519167</coordinates>
-			</Point>
-			<name>New Cavendish Street, Marylebone</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>581</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.12597218,51.49764</coordinates>
 			</Point>
 			<name>Abingdon Green, Westminster</name>
