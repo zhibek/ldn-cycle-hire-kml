@@ -6164,6 +6164,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.1928141999999866,51.522168</coordinates>
+			</Point>
+			<name>Westbourne Green, Westbourne</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>327</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.086016,51.53114</coordinates>
 			</Point>
 			<name>New North Road 2, Hoxton</name>
