@@ -5244,26 +5244,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.176645823,51.51862243</coordinates>
-			</Point>
-			<name>North Wharf Road, Paddington</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>279</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.162418,51.490083</coordinates>
 			</Point>
 			<name>Royal Avenue 2, Chelsea</name>
