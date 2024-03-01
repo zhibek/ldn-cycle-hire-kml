@@ -2444,6 +2444,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.137043852,51.5118973</coordinates>
+			</Point>
+			<name>Golden Square, Soho</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>129</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.075459482,51.50950627</coordinates>
 			</Point>
 			<name>Tower Gardens , Tower</name>
