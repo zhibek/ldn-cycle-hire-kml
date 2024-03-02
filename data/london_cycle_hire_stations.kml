@@ -6404,6 +6404,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.087587447,51.51444134</coordinates>
+			</Point>
+			<name>Bank of England Museum, Bank</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>340</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.12602103,51.50810309</coordinates>
 			</Point>
 			<name>Craven Street, Strand</name>
