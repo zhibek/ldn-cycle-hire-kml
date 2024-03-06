@@ -12684,6 +12684,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.22660621,51.48810829</coordinates>
+			</Point>
+			<name>Crisp Road, Hammersmith</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>682</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.163750945,51.46506424</coordinates>
 			</Point>
 			<name>Dorothy Road, Clapham Junction</name>
