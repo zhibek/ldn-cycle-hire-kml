@@ -4844,26 +4844,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.178656971,51.50143293</coordinates>
-			</Point>
-			<name>Kensington Gore, Knightsbridge</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>258</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.1532331,51.490959</coordinates>
 			</Point>
 			<name>Bourne Street, Belgravia</name>
