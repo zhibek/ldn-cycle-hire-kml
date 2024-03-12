@@ -4224,26 +4224,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.196422,51.50935342</coordinates>
-			</Point>
-			<name>Notting Hill Gate Station, Notting Hill</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>225</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.131961389,51.50844614</coordinates>
 			</Point>
 			<name>Charles II Street, West End</name>
