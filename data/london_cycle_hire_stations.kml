@@ -14784,26 +14784,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.13186102,51.527068</coordinates>
-			</Point>
-			<name>Euston Square Gardens, Euston</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>795</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.12640984,51.524</coordinates>
 			</Point>
 			<name>Coram Street, Bloomsbury</name>
