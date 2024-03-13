@@ -784,26 +784,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.083493552,51.520955</coordinates>
-			</Point>
-			<name>Pindar Street, Liverpool Street</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>41</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.093903825,51.53099181</coordinates>
 			</Point>
 			<name>Wenlock Road , Hoxton</name>
