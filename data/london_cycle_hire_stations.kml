@@ -1324,26 +1324,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.134407652,51.5262363</coordinates>
-			</Point>
-			<name>Euston Road, Euston</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>69</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.117069978,51.53136059</coordinates>
 			</Point>
 			<name>Calshot Street , King's Cross</name>
