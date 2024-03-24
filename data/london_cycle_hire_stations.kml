@@ -13724,6 +13724,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.17302926,51.46489445</coordinates>
+			</Point>
+			<name>Grant Road East, Clapham Junction</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>735</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.216104479,51.50659035</coordinates>
 			</Point>
 			<name>Queensdale Road, Shepherd's Bush</name>
