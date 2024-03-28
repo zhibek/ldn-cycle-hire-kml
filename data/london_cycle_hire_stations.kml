@@ -4444,6 +4444,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.0681619805156,51.5097860151</coordinates>
+			</Point>
+			<name>Dock Street, Wapping</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>237</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.175116099,51.5233534</coordinates>
 			</Point>
 			<name>Frampton Street, Paddington</name>
