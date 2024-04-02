@@ -1344,6 +1344,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.098850915,51.5154186</coordinates>
+			</Point>
+			<name>Newgate Street , St. Paul's</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>71</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>true</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.108340165,51.52352001</coordinates>
 			</Point>
 			<name>Farringdon Lane, Clerkenwell</name>
