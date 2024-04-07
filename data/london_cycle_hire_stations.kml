@@ -1344,26 +1344,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.098850915,51.5154186</coordinates>
-			</Point>
-			<name>Newgate Street , St. Paul's</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>71</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>true</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.108340165,51.52352001</coordinates>
 			</Point>
 			<name>Farringdon Lane, Clerkenwell</name>
@@ -1890,26 +1870,6 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>100</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.0929401,51.51155322</coordinates>
-			</Point>
-			<name>Queen Street 1, Bank</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>101</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -10690,26 +10650,6 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>578</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.093051,51.511246</coordinates>
-			</Point>
-			<name>Queen Street 2, Bank</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>579</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
