@@ -2444,26 +2444,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.075459482,51.50950627</coordinates>
-			</Point>
-			<name>Tower Gardens , Tower</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>130</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.136792671,51.53300545</coordinates>
 			</Point>
 			<name>Eversholt Street , Camden Town</name>
@@ -4284,26 +4264,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.123179697,51.50654321</coordinates>
-			</Point>
-			<name>Whitehall Place, Strand</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>229</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.103137426,51.50669284</coordinates>
 			</Point>
 			<name>Poured Lines, Bankside</name>
@@ -5184,26 +5144,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.084985356,51.50930161</coordinates>
-			</Point>
-			<name>Lower Thames Street, Monument</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>276</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.191496313,51.50315739</coordinates>
 			</Point>
 			<name>Kensington Church Street, Kensington</name>
@@ -5604,26 +5544,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.074189225,51.50227992</coordinates>
-			</Point>
-			<name>Curlew Street, Shad Thames</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>298</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.136928582,51.49398524</coordinates>
 			</Point>
 			<name>Vincent Square, Westminster</name>
@@ -5770,26 +5690,6 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>308</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.119047563,51.50963123</coordinates>
-			</Point>
-			<name>Embankment (Savoy), Strand</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>309</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -6630,26 +6530,6 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>353</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.123702,51.506767</coordinates>
-			</Point>
-			<name>Northumberland Avenue, Strand</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>354</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -8204,26 +8084,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.057159,51.511088</coordinates>
-			</Point>
-			<name>Shadwell Station, Shadwell</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>449</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.053177,51.515975</coordinates>
 			</Point>
 			<name>Jubilee Street, Stepney</name>
@@ -8310,26 +8170,6 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>454</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.014409,51.49447</coordinates>
-			</Point>
-			<name>East Ferry Road, Cubitt Town</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>455</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -9824,26 +9664,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.020242300000006708,51.5034</coordinates>
-			</Point>
-			<name>Jubilee Plaza, Canary Wharf</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>532</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.069743,51.528222</coordinates>
 			</Point>
 			<name>Wellington Row, Bethnal Green</name>
@@ -10444,26 +10264,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.117619,51.509943</coordinates>
-			</Point>
-			<name>Somerset House, Strand</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>564</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.063386,51.521905</coordinates>
 			</Point>
 			<name>Selby Street, Whitechapel</name>
@@ -10530,26 +10330,6 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>569</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.017676,51.503083</coordinates>
-			</Point>
-			<name>Upper Bank Street, Canary Wharf</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>570</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
@@ -15304,26 +15084,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.12382322,51.501513</coordinates>
-			</Point>
-			<name>Westminster Pier, Westminster</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>818</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.114842,51.50621</coordinates>
 			</Point>
 			<name>Belvedere Road 2, South Bank</name>
@@ -15670,26 +15430,6 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>841</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.10832249,51.510981</coordinates>
-			</Point>
-			<name>Temple Gardens, Temple</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>842</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
