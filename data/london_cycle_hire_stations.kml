@@ -3204,26 +3204,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.173715911,51.49121192</coordinates>
-			</Point>
-			<name>Sumner Place, South Kensington</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>172</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.113001,51.50486</coordinates>
 			</Point>
 			<name>Waterloo Road, South Bank</name>
