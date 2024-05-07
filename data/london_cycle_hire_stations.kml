@@ -2564,26 +2564,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.157436972,51.51227622</coordinates>
-			</Point>
-			<name>Green Street, Mayfair</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>138</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.117974901,51.49488108</coordinates>
 			</Point>
 			<name>Lambeth Road, Vauxhall</name>
@@ -3330,26 +3310,6 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>178</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.153645496,51.5129118</coordinates>
-			</Point>
-			<name>North Audley Street, Mayfair</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>180</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
