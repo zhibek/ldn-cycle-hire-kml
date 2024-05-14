@@ -5564,6 +5564,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.190603326,51.49363156</coordinates>
+			</Point>
+			<name>Knaresborough Place, Earl's Court</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>296</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.106000855,51.49612799</coordinates>
 			</Point>
 			<name>Geraldine Street, Elephant &amp; Castle</name>
