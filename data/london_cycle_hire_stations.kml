@@ -8026,16 +8026,13 @@
 			<Point>
 				<coordinates>-0.113134,51.483145</coordinates>
 			</Point>
-			<name>Kennington Oval, Oval</name>
+			<name>Kennington Oval, Oval_OLD</name>
 			<ExtendedData>
 				<Data name="id">
 					<value>440</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -15875,6 +15872,23 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.11313400000000229,51.483145</coordinates>
+			</Point>
+			<name>Kennington Oval, Oval</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>860</value>
+				</Data>
+				<Data name="installed">
 					<value>false</value>
 				</Data>
 				<Data name="temporary">
