@@ -484,6 +484,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.132250369,51.5288338</coordinates>
+			</Point>
+			<name>Doric Way , Somers Town</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>25</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.11829517,51.52728093</coordinates>
 			</Point>
 			<name>Ampton Street , Clerkenwell</name>
