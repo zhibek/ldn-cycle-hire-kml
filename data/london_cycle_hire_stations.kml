@@ -4204,6 +4204,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.18740235,51.51031</coordinates>
+			</Point>
+			<name>Queensway, Kensington Gardens</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>224</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.196422,51.50935342</coordinates>
 			</Point>
 			<name>Notting Hill Gate Station, Notting Hill</name>
