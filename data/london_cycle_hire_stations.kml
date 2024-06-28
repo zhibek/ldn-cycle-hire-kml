@@ -2444,26 +2444,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.137043852,51.5118973</coordinates>
-			</Point>
-			<name>Golden Square, Soho</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>129</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.075459482,51.50950627</coordinates>
 			</Point>
 			<name>Tower Gardens , Tower</name>
@@ -3624,26 +3604,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.133201961,51.51251523</coordinates>
-			</Point>
-			<name>Wardour Street, Soho</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>192</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.100186337,51.50581776</coordinates>
 			</Point>
 			<name>Bankside Mix, Bankside</name>
@@ -4164,6 +4124,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.13045856,51.49481649</coordinates>
+			</Point>
+			<name>Horseferry Road, Westminster</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>221</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.155349725,51.50275704</coordinates>
 			</Point>
 			<name>Knightsbridge, Hyde Park</name>
@@ -4395,7 +4375,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>false</value>
+					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -10036,26 +10016,6 @@
 				</Data>
 				<Data name="locked">
 					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>-0.142844,51.506613</coordinates>
-			</Point>
-			<name>Green Park Station, Mayfair</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>541</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
