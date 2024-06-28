@@ -12924,6 +12924,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.195777222,51.47946386</coordinates>
+			</Point>
+			<name>Erin Close, Walham Green</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>691</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.028941601,51.54211855</coordinates>
 			</Point>
 			<name>Cadogan Close, Victoria Park</name>
