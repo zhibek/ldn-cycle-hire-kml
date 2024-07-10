@@ -964,6 +964,26 @@
 		</Placemark>
 		<Placemark>
 			<Point>
+				<coordinates>-0.087459376,51.52867339</coordinates>
+			</Point>
+			<name>East Road, Hoxton</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>50</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
 				<coordinates>-0.104298194,51.52671796</coordinates>
 			</Point>
 			<name>Finsbury Library , Finsbury</name>
