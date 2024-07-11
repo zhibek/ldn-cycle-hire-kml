@@ -3424,26 +3424,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.165842551,51.52202903</coordinates>
-			</Point>
-			<name>Bell Street , Marylebone</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>182</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.13612398,51.482362</coordinates>
 			</Point>
 			<name>Riverlight North, Nine Elms</name>
