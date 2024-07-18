@@ -13384,26 +13384,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.137235175,51.47311696</coordinates>
-			</Point>
-			<name>Stewart's Road, Wandsworth Road</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>714</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.049067243,51.51563007</coordinates>
 			</Point>
 			<name>Aylward Street, Stepney</name>
