@@ -6244,26 +6244,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.179135079,51.51641749</coordinates>
-			</Point>
-			<name>Eastbourne Mews, Paddington</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>330</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.089887855,51.52085887</coordinates>
 			</Point>
 			<name>Bunhill Row, Moorgate</name>
