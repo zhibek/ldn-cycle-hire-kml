@@ -6535,7 +6535,7 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>true</value>
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -13370,6 +13370,26 @@
 			<ExtendedData>
 				<Data name="id">
 					<value>713</value>
+				</Data>
+				<Data name="installed">
+					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>-0.137235175,51.47311696</coordinates>
+			</Point>
+			<name>Stewart's Road, Wandsworth Road</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>714</value>
 				</Data>
 				<Data name="installed">
 					<value>true</value>
