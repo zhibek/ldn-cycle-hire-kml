@@ -6524,26 +6524,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.113936001,51.50013942</coordinates>
-			</Point>
-			<name>Lower Marsh, Waterloo</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>347</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.150481272,51.51217033</coordinates>
 			</Point>
 			<name>Grosvenor Square, Mayfair</name>
