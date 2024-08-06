@@ -13044,26 +13044,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.07023031,51.5366541</coordinates>
-			</Point>
-			<name>Belford House, Haggerston</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>699</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.174347066,51.47696496</coordinates>
 			</Point>
 			<name>Battersea Church Road, Battersea</name>
