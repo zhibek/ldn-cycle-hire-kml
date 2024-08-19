@@ -2046,7 +2046,7 @@
 			<Point>
 				<coordinates>-0.1321021999999914,51.4981256</coordinates>
 			</Point>
-			<name>Abbey Orchard Street, Westminster_OLD</name>
+			<name>Abbey Orchard Street, Westminster</name>
 			<ExtendedData>
 				<Data name="id">
 					<value>108</value>
@@ -15943,7 +15943,7 @@
 			<Point>
 				<coordinates>0.0,0.0</coordinates>
 			</Point>
-			<name>Abbey Orchard Street, Westminster</name>
+			<name>Abbey Orchard Street, Westminster_XXXX</name>
 			<ExtendedData>
 				<Data name="id">
 					<value>862</value>
