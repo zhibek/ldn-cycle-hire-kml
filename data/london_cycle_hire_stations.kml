@@ -15956,5 +15956,22 @@
 				</Data>
 			</ExtendedData>
 		</Placemark>
+		<Placemark>
+			<Point>
+				<coordinates>0.0,0.0</coordinates>
+			</Point>
+			<name>One London</name>
+			<ExtendedData>
+				<Data name="id">
+					<value>863</value>
+				</Data>
+				<Data name="installed">
+					<value>false</value>
+				</Data>
+				<Data name="temporary">
+					<value>false</value>
+				</Data>
+			</ExtendedData>
+		</Placemark>
 	</Document>
 </kml>
