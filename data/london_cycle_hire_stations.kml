@@ -2044,7 +2044,7 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.1321021999999914,51.4981256</coordinates>
+				<coordinates>-0.1321022,51.4981256</coordinates>
 			</Point>
 			<name>Abbey Orchard Street, Westminster</name>
 			<ExtendedData>
@@ -2053,6 +2053,9 @@
 				</Data>
 				<Data name="installed">
 					<value>true</value>
+				</Data>
+				<Data name="locked">
+					<value>false</value>
 				</Data>
 				<Data name="temporary">
 					<value>false</value>
@@ -15932,23 +15935,6 @@
 					<value>true</value>
 				</Data>
 				<Data name="locked">
-					<value>false</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
-				<coordinates>0.0,0.0</coordinates>
-			</Point>
-			<name>Abbey Orchard Street, Westminster_XXXX</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>862</value>
-				</Data>
-				<Data name="installed">
 					<value>false</value>
 				</Data>
 				<Data name="temporary">
