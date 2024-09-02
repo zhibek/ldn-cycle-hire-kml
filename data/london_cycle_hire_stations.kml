@@ -4404,26 +4404,6 @@
 		</Placemark>
 		<Placemark>
 			<Point>
-				<coordinates>-0.073438925,51.51838043</coordinates>
-			</Point>
-			<name>Fashion Street, Whitechapel</name>
-			<ExtendedData>
-				<Data name="id">
-					<value>236</value>
-				</Data>
-				<Data name="installed">
-					<value>true</value>
-				</Data>
-				<Data name="locked">
-					<value>true</value>
-				</Data>
-				<Data name="temporary">
-					<value>false</value>
-				</Data>
-			</ExtendedData>
-		</Placemark>
-		<Placemark>
-			<Point>
 				<coordinates>-0.0681619805156,51.5097860151</coordinates>
 			</Point>
 			<name>Dock Street, Wapping</name>
